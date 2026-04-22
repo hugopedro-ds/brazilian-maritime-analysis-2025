@@ -1,13 +1,11 @@
-# Definições Operacionais — Métricas do Post LinkedIn e README
+# Data Dictionary — Métricas e Definições
 
-Este documento fixa a definição exacta, a fonte, os filtros e o notebook de origem de cada
-número citado no post de LinkedIn e no README principal. Existe para que qualquer leitor
-técnico (shipping line, analista, académico) possa reproduzir cada afirmação sem ambiguidade
-e para blindar o projecto contra questionamento sobre metodologia.
+Notas sobre cada métrica usada no README: definição, fonte ANTAQ, filtros aplicados e
+notebook onde é calculada. Útil para reproduzir os valores ou cruzá-los com outras fontes.
 
-**Janela temporal:** ano civil 2025 (01-jan-2025 a 31-dez-2025), dados ANTAQ abertos.
+**Janela temporal:** ano civil 2025 (dados ANTAQ abertos).
 **Base geográfica:** portos brasileiros informantes à ANTAQ.
-**Unidade de observação base:** atracação (registo único `IDAtracacao`).
+**Unidade de observação:** atracação (chave `IDAtracacao`).
 
 ---
 
@@ -35,8 +33,8 @@ Atracações no conjunto de dados `2025_Atracacao.csv` com o filtro
 
 ## 2. TEstadia mediana em Longo Curso — 84h
 
-**Valor reportado no post:** "84 hours median port stay in deep sea calls"
-(variação no README: 83h; ambos são aproximações da mediana do conjunto LC completo).
+**Valor reportado:** 84h de mediana em deep sea (variação no README: 83h; ambos são
+aproximações da mediana do conjunto Longo Curso completo).
 
 **Definição:**
 Mediana da coluna `TEstadia` (em horas) do dataset `2025_Tempos_Atracacao.csv`,
@@ -174,7 +172,7 @@ alocação comercial, a versão TEU-weighted seria mais precisa e deve ser adici
 
 ## 6. Correlação ocupação de berço × TEstadia — ρ = 0,817
 
-**Valor reportado no post:** ρ = 0,817, p = 0,007, n = 9 portos.
+**Valor reportado:** ρ = 0,817, p = 0,007, n = 9 portos.
 
 **Definição:**
 Correlação de Spearman (ρ) entre:
@@ -194,15 +192,12 @@ Fonte: `ocupacao_testadia_porto_2025.csv` (input) e
 | C — Sem SFS e Paranaguá | 8 | 0,738 | 0,037 | Robusta (marginal) |
 
 **Escolha do cenário reportado:**
-O post e o README usam o cenário B. Justificação: São Francisco do Sul é um outlier
-estrutural (TEstadia mediana = 240h, dominado por rotas Ásia-SFS com graneleiros
-especializados, não representativo de porto contentor típico). A sua inclusão infla
-ρ artificialmente.
+O README usa o cenário B. São Francisco do Sul é outlier estrutural (TEstadia mediana = 240h,
+dominado por rotas Ásia-SFS com graneleiros especializados, não representativo de porto
+contentor típico). Mantê-lo inflaciona ρ artificialmente.
 
-**Declaração de transparência obrigatória:**
-A correlação reportada (ρ = 0,817) é o valor **após remoção de SFS**. Isto deve ser
-mencionado explicitamente em comunicações externas; caso contrário, induz leitura
-de que o resultado é "bruto".
+**Nota:** o valor 0,817 é após remoção de SFS. Ao citar noutros contextos, convém indicar
+isso — o bruto é 0,855.
 
 **Limitações:**
 - n = 9 é amostra pequena. Mesmo com p < 0,01, intervalos de confiança são largos.

@@ -33,9 +33,10 @@ ever touches the berth.
 
 UNCTAD RMT 2025 reports a developing-country median time-in-port of 10.9h.
 Brazil runs at roughly 2.1× that benchmark. The comparison is
-order-of-magnitude: UNCTAD is derived from AIS, ANTAQ from administrative
-timestamps. The ratio points to slot management absence as the likely
-structural driver — consistent with but not direct proof of causation.
+order-of-magnitude — UNCTAD is derived from AIS, ANTAQ from administrative
+timestamps, so the numbers aren't strictly comparable. The direction is
+clear enough: slot management absence is the most likely driver, though
+association isn't proof.
 
 **Notebook:** [`08_kpis_operacionais_2025`](notebooks/08_kpis_operacionais_2025.ipynb) ·
 [`12_testadia_vessel_segment_2025`](notebooks/12_testadia_vessel_segment_2025.ipynb)
@@ -54,10 +55,9 @@ dominant player (COSCO 22.5%, MSC 21.5%, MAERSK 15.3%, CMA CGM 12.6%, etc.
 by global TEU).
 
 Within Feeder Max, CMA CGM is also the most efficient operator:
-75h median TEstadia versus 104h for the rest of the segment. The question
-this raises: is that efficiency a network design choice (dedicated
-windows, callsize optimised for specific terminals) or an accident of
-route concentration?
+75h median TEstadia versus 104h for the rest of the segment. Open to debate
+whether the efficiency comes from network design (dedicated windows, callsize
+tuned to specific terminals) or from route concentration itself.
 
 **Notebook:** [`07_market_power_feeder`](notebooks/07_market_power_feeder.ipynb)
 
@@ -79,11 +79,10 @@ total registered fleet:
 | ZIM | 31 | 1 | 3.2% |
 | ONE | 58 | 1 | 1.7% |
 
-The ceiling at 12% is suggestive — it sits against UNCTAD's 8.7% reported
-South-South trade growth in 2024 (RMT 2025, Ch. I) and Brazil's share of
-global container trade. The gap between registered fleet and Brazil
-deployment is a commercial opportunity signal for any carrier willing
-to push capacity here.
+The ceiling at 12% is low given UNCTAD's 8.7% South-South trade growth in
+2024 (RMT 2025, Ch. I) and Brazil's share of global container trade. The
+gap between registered fleet and Brazil deployment is where the commercial
+opportunity sits for any carrier willing to push capacity here.
 
 **Caveat:** measured in unique vessels, not TEU-weighted. A TEU-weighted
 version may change the ranking and is an open item.
@@ -119,11 +118,10 @@ See robustness analysis: [`outputs/figures/nb15_03_bootstrap_loo.png`](outputs/f
 
 ## Methodology and definitions
 
-Every headline number has a fixed operational definition, source column,
-filter, and reference notebook documented in
-[`docs/definitions.md`](docs/definitions.md). That document is the
-authoritative reference for anyone wanting to reproduce or challenge
-a specific number.
+Each headline number has a defined formula, source column, filter, and
+reference notebook in [`docs/definitions.md`](docs/definitions.md). Start there
+if you want to reproduce a specific value or cross-check it against another
+source.
 
 **Short version of the most sensitive choices:**
 
@@ -144,8 +142,7 @@ a specific number.
 
 ## What is NOT in this analysis
 
-This matters as much as what is. Any reader familiar with maritime data
-knows the limits of ANTAQ alone.
+Worth being explicit about where ANTAQ alone falls short.
 
 **No AIS data.** Everything is static: registered fleet, port-reported
 timestamps, monthly aggregates. Ship-berth synchronisation analysis,
@@ -168,8 +165,9 @@ strings. No matching European, North-American or Asian data is merged,
 so Brazil's relative position cannot be placed inside a lane-level
 comparison.
 
-**n = 9 for the occupancy / TEstadia correlation.** Defensible point
-estimate, wide confidence interval. Honest given the data.
+**n = 9 for the occupancy / TEstadia correlation.** Point estimate holds
+up but the confidence interval is wide — that's what a 9-port sample gives
+you.
 
 All limitations are also declared per-notebook.
 
