@@ -1,0 +1,56 @@
+﻿IDBerco,Nome_Berco,Terminal,Taxa_Media_Pct,Taxa_Carga_Media_Pct,Dias_Acima_80,N_Dias,Status,Categoria
+SSZ0812,Cais da Santos Brasil (SSZ 16) - Privativo,Cais da Santos Brasil (SSZ 16) - Privativo,83.0,82.9,253,365,Vermelho,A — Claramente contentores
+SSZ0813,Cais da Santos Brasil (SSZ 16) - Privativo,Cais da Santos Brasil (SSZ 16) - Privativo,82.7,82.7,243,365,Vermelho,A — Claramente contentores
+SSZ0811,Cais da Santos Brasil (SSZ 16) - Privativo,Cais da Santos Brasil (SSZ 16) - Privativo,80.6,80.5,245,365,Vermelho,A — Claramente contentores
+SSZ0108,Cais da BTP (SSZ 41) - Privativo,Cais da BTP (SSZ 41) - Privativo,80.4,80.4,228,365,Vermelho,A — Claramente contentores
+BRSP0080001,Berço 1,DP World Santos,80.3,80.3,242,365,Vermelho,A — Claramente contentores
+SSZ0109,Cais da BTP (SSZ 41) - Privativo,Cais da BTP (SSZ 41) - Privativo,77.3,77.3,202,365,Amarelo,A — Claramente contentores
+BRSP0080002,Berço 2,DP World Santos,76.1,76.1,223,365,Amarelo,A — Claramente contentores
+BRSP0085003,Berço 3,DP World Santos,68.2,68.0,201,365,Amarelo,A — Claramente contentores
+SSZ0107,Cais da BTP (SSZ 41) - Privativo,Cais da BTP (SSZ 41) - Privativo,65.4,65.4,165,365,Amarelo,A — Claramente contentores
+BRSP0085004,Berço 4,DP World Santos,63.2,63.2,194,365,Amarelo,A — Claramente contentores
+SSZ0814,Cais da Santos Brasil (SSZ 16) - Privativo,Cais da Santos Brasil (SSZ 16) - Privativo,48.9,48.4,124,365,Verde,A — Claramente contentores
+SSZ0214,Cais da Ecoporto (SSZ 35) - Privativo,Cais da Ecoporto (SSZ 35) - Privativo,42.9,42.6,126,365,Verde,A — Claramente contentores
+SSZ0310,Cais da Ecoporto (SSZ 35) - Privativo,Cais da Ecoporto (SSZ 35) - Privativo,42.4,40.6,112,365,Verde,A — Claramente contentores
+SSZ0664,Libra Terminais S/A (cadastro antigo),Libra Terminais S/A (cadastro antigo),41.3,41.2,122,365,Verde,A — Claramente contentores
+SSZ0240,Cais da Ecoporto (SSZ 35) - Privativo,Cais da Ecoporto (SSZ 35) - Privativo,6.7,5.7,15,365,Verde,A — Claramente contentores
+SSZ0102,Píer da Alamoa - Público,Píer da Alamoa - Público,86.2,85.3,297,365,Vermelho,B — Provavelmente misto
+SSZ0737,T-37 (cadastro antigo),T-37 (cadastro antigo),86.2,86.2,291,365,Vermelho,B — Provavelmente misto
+SSZ0420,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,85.5,85.5,290,365,Vermelho,B — Provavelmente misto
+SSZ0759,Cais da Ponta da Praia - Público,Cais da Ponta da Praia - Público,85.3,85.1,297,365,Vermelho,B — Provavelmente misto
+SSZ0103,Píer da Alamoa - Público,Píer da Alamoa - Público,85.0,84.2,298,365,Vermelho,B — Provavelmente misto
+SSZ0748,Cais da Ponta da Praia - Público,Cais da Ponta da Praia - Público,83.6,83.6,290,365,Vermelho,B — Provavelmente misto
+SSZ0419,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,83.5,83.3,284,365,Vermelho,B — Provavelmente misto
+SSZ0101,Píer da Alamoa - Público,Píer da Alamoa - Público,83.0,81.2,274,365,Vermelho,B — Provavelmente misto
+SSZ0640,Cais do Macuco - Público,Cais do Macuco - Público,78.5,75.2,274,365,Amarelo,B — Provavelmente misto
+SSZ0675,Cais do Macuco - Público,Cais do Macuco - Público,76.0,75.3,260,365,Amarelo,B — Provavelmente misto
+SSZ0104,Píer da Alamoa - Público,Píer da Alamoa - Público,75.9,75.9,251,365,Amarelo,B — Provavelmente misto
+SSZ0676,Cais do Macuco - Público,Cais do Macuco - Público,75.4,74.3,252,365,Amarelo,B — Provavelmente misto
+SSZ0626,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,74.6,74.2,251,365,Amarelo,B — Provavelmente misto
+SSZ0416,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,74.6,74.3,248,365,Amarelo,B — Provavelmente misto
+SSZ0653,Cais do Macuco - Público,Cais do Macuco - Público,71.8,70.7,249,365,Amarelo,B — Provavelmente misto
+SSZ0423,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,70.7,68.2,235,365,Amarelo,B — Provavelmente misto
+SSZ0412,Cais do Paquetá - Público,Cais do Paquetá - Público,70.3,68.1,234,365,Amarelo,B — Provavelmente misto
+SSZ0413,Cais do Paquetá - Público,Cais do Paquetá - Público,69.8,69.8,241,365,Amarelo,B — Provavelmente misto
+SSZ0641,Cais do Macuco - Público,Cais do Macuco - Público,53.2,45.8,164,365,Verde,B — Provavelmente misto
+SSZ0211,Cais do Saboó - Público,Cais do Saboó - Público,49.4,41.8,170,365,Verde,B — Provavelmente misto
+SSZ0213,Cais do Saboó - Público,Cais do Saboó - Público,48.7,45.1,163,365,Verde,B — Provavelmente misto
+SSZ0212,Cais do Saboó - Público,Cais do Saboó - Público,47.3,47.2,161,365,Verde,B — Provavelmente misto
+SSZ0629,Cais do Macuco - Público,Cais do Macuco - Público,46.3,36.0,138,365,Verde,B — Provavelmente misto
+SSZ0652,Cais do Macuco - Público,Cais do Macuco - Público,44.5,41.4,132,365,Verde,B — Provavelmente misto
+SSZ0525,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,34.1,1.4,89,365,Verde,B — Provavelmente misto
+SSZ0322,Cais Público - Valongo,Cais Público - Valongo,18.9,14.2,64,365,Verde,B — Provavelmente misto
+SSZ0627,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,9.9,0.0,20,365,Verde,B — Provavelmente misto
+SSZ0628,Cais do Outeirinhos - Público,Cais do Outeirinhos - Público,7.6,0.0,10,365,Verde,B — Provavelmente misto
+SSZ0415,Cais do Paquetá - Público,Cais do Paquetá - Público,6.4,6.3,21,365,Verde,B — Provavelmente misto
+SSZ0321,Cais Público - Valongo,Cais Público - Valongo,2.3,0.0,8,365,Verde,C — Inactivo/Irrelevante
+SSZ0651,Cais do Macuco - Público,Cais do Macuco - Público,1.5,0.0,0,365,Verde,C — Inactivo/Irrelevante
+SSZ0942,Píer da TEG (SSZ 08) - Privativo,Píer da TEG (SSZ 08) - Privativo,78.6,78.4,271,365,Amarelo,C — Provavelmente não-container
+SSZ0803,Píer da TGG (SSZ 14) - Privativo,Píer da TGG (SSZ 14) - Privativo,77.4,77.4,244,365,Amarelo,C — Provavelmente não-container
+SSZ0941,Píer da TEAG (SSZ 10) - Privativo,Píer da TEAG (SSZ 10) - Privativo,73.7,73.7,255,365,Amarelo,C — Provavelmente não-container
+SSZ5090,AGEO SP,Píer da Ageo (SSZ 32) - Privativo,69.1,69.1,220,365,Amarelo,C — Provavelmente não-container
+SSZ0804,Píer da TERMAG (SSZ 12) - Privativo,Píer da TERMAG (SSZ 12) - Privativo,68.3,68.3,232,365,Amarelo,C — Provavelmente não-container
+SSZ0112,Cais da Ilha Barnabé - Público,Cais da Ilha Barnabé - Público,68.3,68.3,214,365,Amarelo,C — Provavelmente não-container
+SSZ0111,Cais da Ilha Barnabé - Público,Cais da Ilha Barnabé - Público,67.8,67.7,215,365,Amarelo,C — Provavelmente não-container
+SSZ0815,Cais do TEV (SSZ 18) - Privativo,Cais do TEV (SSZ 18) - Privativo,58.4,57.9,147,365,Verde,C — Provavelmente não-container
+SSZ0910,Píer da Ageo (SSZ 32) - Privativo,Píer da Ageo (SSZ 32) - Privativo,43.9,43.9,138,365,Verde,C — Provavelmente não-container

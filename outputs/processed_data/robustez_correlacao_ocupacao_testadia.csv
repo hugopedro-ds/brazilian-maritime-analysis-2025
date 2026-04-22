@@ -1,0 +1,4 @@
+﻿Cenário,n_portos,ρ_TEstadia,p_TEstadia,ρ_TEspera,p_TEspera,Interp_TEstadia
+A — Todos os portos,10,0.855,0.002,0.758,0.011,Robusta — publicável
+B — Sem São Francisco do Sul,9,0.817,0.007,0.683,0.042,Robusta — publicável
+C — Sem São Francisco do Sul e Paranaguá,8,0.738,0.037,0.548,0.16,Robusta — publicável

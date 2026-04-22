@@ -1,0 +1,9 @@
+﻿SHIPPING LINE,Total_Escalas,Longo_Curso,Cabotagem,Portos_Unicos,Navios_Unicos,Frota_Registada,Frota_Activa_%,Escalas_por_Navio,Share_LC_%,T_Espera_med,T_Operacao_med,T_Estadia_med,Navios_Atracaram_BR,Frota_Inactiva_BR,Pct_Activa_%
+MAERSK,311,191,120,28,21,261,8.0,14.8,61.4,4.8,17.63,30.98,21,240,8.0
+MSC,169,157,12,20,19,220,8.6,8.9,92.9,11.45,19.7,43.08,19,201,8.6
+COSCO,156,100,56,39,25,335,7.5,6.2,64.1,16.19,26.5,64.4,25,310,7.5
+Hapag-Lloyd,121,66,55,23,6,100,6.0,20.2,54.5,9.46,16.76,39.36,6,94,6.0
+EVERGREEN,100,100,0,15,17,142,12.0,5.9,100.0,19.6,19.83,50.75,17,125,12.0
+CMA CGM,84,80,4,27,13,231,5.6,6.5,95.2,4.37,40.13,73.65,13,218,5.6
+ONE,15,9,6,9,1,58,1.7,15.0,60.0,,,,1,57,1.7
+ZIM,2,2,0,2,1,31,3.2,2.0,100.0,,,,1,30,3.2

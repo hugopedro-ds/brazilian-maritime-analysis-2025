@@ -1,0 +1,13 @@
+operador,capacidade_teu_ano,num_bercos,comprimento_cais_m,profundidade_m,num_guindastes,cidade,uf
+Santos Brasil,1200000,5,1260,15.0,14,Santos,SP
+BTP,1100000,3,900,16.0,9,Santos,SP
+DP World Santos,500000,2,640,13.5,6,Santos,SP
+TCP Paranaguá,1200000,4,920,14.5,10,Paranaguá,PR
+Porto Itapoá,900000,2,700,16.0,6,Itapoá,SC
+Portonave,750000,3,780,14.5,8,Navegantes,SC
+Tecon Rio Grande,700000,3,760,14.0,8,Rio Grande,RS
+Tecon Suape,500000,2,600,15.0,6,Ipojuca,PE
+CIPP Pecém,300000,2,500,14.5,4,Sao Goncalo do Amarante,CE
+Multi-Rio,400000,3,680,13.0,5,Rio de Janeiro,RJ
+ICTSI Rio,350000,2,500,13.5,4,Rio de Janeiro,RJ
+Terminal Vila do Conde,200000,2,420,13.0,3,Barcarena,PA

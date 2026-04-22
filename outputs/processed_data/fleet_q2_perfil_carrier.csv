@@ -1,0 +1,9 @@
+﻿SHIPPING LINE,n_navios,teu_medio,teu_std,idade_media,idade_mediana,pct_miss_idade,loa_media,segmento_dominante
+ONE,58,12477.5,4969.4,10.6,9.0,10.3,209.3,New Panamax (12k-18k TEU)
+MSC,220,11697.3,6258.3,15.9,15.5,8.2,257.8,Sub-Panamax (3k-8k TEU)
+Hapag-Lloyd,100,10858.7,5035.3,14.0,14.0,10.0,289.2,Post-Panamax (8k-12k TEU)
+ZIM,31,10021.5,3345.5,14.4,18.0,6.5,220.9,Post-Panamax (8k-12k TEU)
+EVERGREEN,142,8858.9,6808.6,11.8,9.0,12.7,283.5,Feeder Max (1k-3k TEU)
+COSCO,335,8045.9,4776.3,16.5,18.0,22.7,217.7,Sub-Panamax (3k-8k TEU)
+MAERSK,261,7038.9,4446.0,15.9,17.0,13.8,202.8,Sub-Panamax (3k-8k TEU)
+CMA CGM,231,6524.6,6272.6,16.5,18.0,14.7,214.9,Feeder Max (1k-3k TEU)

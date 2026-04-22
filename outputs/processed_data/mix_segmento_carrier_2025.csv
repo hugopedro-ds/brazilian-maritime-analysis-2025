@@ -1,0 +1,7 @@
+﻿CARRIER,Feeder Max (1k-3k TEU),Sub-Panamax (3k-8k TEU),Post-Panamax (8k-12k TEU),New Panamax (12k-18k TEU),Ultra Large (> 18k TEU),VesselCost_Day_USD
+MAERSK,7.3,74.3,15.2,3.1,0.0,27455.0
+CMA CGM,78.8,10.0,7.5,3.8,0.0,19410.0
+MSC,0.0,3.2,75.2,17.8,3.8,43710.0
+Hapag-Lloyd,0.0,53.0,45.5,0.0,1.5,32650.0
+COSCO,0.0,81.0,11.0,8.0,0.0,29050.0
+EVERGREEN,15.0,0.0,20.0,60.0,5.0,47250.0

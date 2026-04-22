@@ -1,0 +1,4 @@
+﻿Cenário,n,rho_pontual,p_aprox,CI95_lo,CI95_hi
+A — Todos,10,0.8545,0.0033,0.4036,1.0
+B — Sem SFS,9,0.8167,0.0107,0.2294,1.0
+C — Sem SFS e Paranaguá,8,0.7381,0.0422,-0.0633,1.0

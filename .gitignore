@@ -1,0 +1,43 @@
+# Raw data files (not versioned — see README for download sources)
+data/
+
+# Large intermediate files (regeneratable from notebooks)
+outputs/processed_data/paralisacoes_2025_clean.csv
+outputs/processed_data/*.parquet
+outputs/processed_data/tempos_2025_clean.parquet
+
+# HTML dashboards (large; use figures/ PNGs instead)
+outputs/*.html
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.jupyter/
+*.bak
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp
+*.tmp
+*.log

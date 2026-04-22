@@ -1,0 +1,33 @@
+﻿carrier,porto,total,compativel,incompativel,indeterminado,pct_comp,pct_incomp,pct_indet
+CMA CGM,Itajaí/Navegantes,231,104,61,66,45.0,26.4,28.6
+CMA CGM,S.Francisco do Sul,231,97,68,66,42.0,29.4,28.6
+CMA CGM,Vila do Conde,231,70,95,66,30.3,41.1,28.6
+CMA CGM,Manaus,231,70,95,66,30.3,41.1,28.6
+COSCO,Itajaí/Navegantes,335,150,88,97,44.8,26.3,29.0
+COSCO,S.Francisco do Sul,335,142,96,97,42.4,28.7,29.0
+COSCO,Vila do Conde,335,92,146,97,27.5,43.6,29.0
+COSCO,Manaus,335,92,146,97,27.5,43.6,29.0
+EVERGREEN,Itajaí/Navegantes,142,38,68,36,26.8,47.9,25.4
+EVERGREEN,S.Francisco do Sul,142,37,69,36,26.1,48.6,25.4
+EVERGREEN,Vila do Conde,142,10,96,36,7.0,67.6,25.4
+EVERGREEN,Manaus,142,10,96,36,7.0,67.6,25.4
+Hapag-Lloyd,Itajaí/Navegantes,100,34,47,19,34.0,47.0,19.0
+Hapag-Lloyd,S.Francisco do Sul,100,25,56,19,25.0,56.0,19.0
+Hapag-Lloyd,Vila do Conde,100,11,70,19,11.0,70.0,19.0
+Hapag-Lloyd,Manaus,100,11,70,19,11.0,70.0,19.0
+MAERSK,Itajaí/Navegantes,261,156,47,58,59.8,18.0,22.2
+MAERSK,S.Francisco do Sul,261,150,53,58,57.5,20.3,22.2
+MAERSK,Vila do Conde,261,88,115,58,33.7,44.1,22.2
+MAERSK,Manaus,261,88,115,58,33.7,44.1,22.2
+MSC,Itajaí/Navegantes,220,85,89,46,38.6,40.5,20.9
+MSC,S.Francisco do Sul,220,76,98,46,34.5,44.5,20.9
+MSC,Vila do Conde,220,48,126,46,21.8,57.3,20.9
+MSC,Manaus,220,48,126,46,21.8,57.3,20.9
+ONE,Itajaí/Navegantes,58,28,21,9,48.3,36.2,15.5
+ONE,S.Francisco do Sul,58,28,21,9,48.3,36.2,15.5
+ONE,Vila do Conde,58,21,28,9,36.2,48.3,15.5
+ONE,Manaus,58,21,28,9,36.2,48.3,15.5
+ZIM,Itajaí/Navegantes,31,15,12,4,48.4,38.7,12.9
+ZIM,S.Francisco do Sul,31,15,12,4,48.4,38.7,12.9
+ZIM,Vila do Conde,31,14,13,4,45.2,41.9,12.9
+ZIM,Manaus,31,14,13,4,45.2,41.9,12.9

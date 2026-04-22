@@ -1,0 +1,26 @@
+# ============================================================
+# ANTAQ Logistics Analysis Project — Dependências
+# Python >= 3.10
+#
+# Instalação:
+#   pip install -r requirements.txt
+# ============================================================
+
+# --- Manipulação de dados ---
+pandas>=2.2.3
+numpy>=2.2.5
+
+# --- Visualização ---
+matplotlib>=3.10.1
+seaborn>=0.13.2
+
+# --- Machine Learning ---
+scikit-learn>=1.6.1
+joblib>=1.5.0
+
+# --- Leitura de arquivos Excel (IBGE) ---
+openpyxl>=3.1.5
+
+# --- Ambiente Jupyter ---
+notebook>=7.0
+ipykernel>=6.0
