@@ -1,5 +1,5 @@
 # Raw data files (not versioned — see README for download sources)
-data/
+/data/
 
 # Large intermediate files (regeneratable from notebooks)
 outputs/processed_data/paralisacoes_2025_clean.csv
