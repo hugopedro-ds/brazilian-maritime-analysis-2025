@@ -198,28 +198,9 @@ pip install -r requirements.txt
 
 ## Author
 
-**Hugo Pedro** — Senior logistics and supply chain analytics professional with 17+ years of international freight forwarding and supply chain operations, primarily in container shipping and multimodal logistics across Sub-Saharan Africa (Mozambique and Angola). Extensive carrier negotiations and performance reporting experience.
+**Hugo Pedro** — Senior maritime logistics and supply chain analytics professional. 17+ years in international shipping and multimodal logistics across Angola, Mozambique and Brazil, with extensive carrier negotiations and performance reporting experience.
 
-I have operated in some of the most demanding freight environments — where systems did not exist and had to be built. Long before I used BI tools, I built management systems myself in Excel and Power Query: vessel scheduling, order backlogs, freight rate benchmarking, supplier tracking. Power BI and Python came later. The thinking was always the same.
-
-**Career highlights:**
-- **Operations Manager, Pinto Basto Angola (2019–2022)** — multimodal freight through Port of Luanda, team of 15, 1,500+ annual transactions, 4 active terminals.
-- **Branch Manager, Pinto Basto Mozambique (2016–2019)** — multimodal operations across Maputo, Beira and Nacala, daily P&L reporting to HQ.
-- **Supply Chain Manager, Midal Cables Mozambique (2015–2016)** — USD 120M/year portfolio, 200+ FCL shipments/month, 25+ country export network, direct work with MSC, Maersk, CMA CGM and Messina.
-- **Procurement & supply chain operations, Quifel Mozambique (2009–2013)**.
-
-**Since 2023, deliberate repositioning toward container shipping analytics:**
-- MBA Data Science & AI at FIAP (completed).
-- Public analytical case studies on Brazilian container shipping — this repository and [brazil-westafrica-container-corridor](https://github.com/hugopedro-ds/brazil-westafrica-container-corridor).
-- Lean Six Sigma Green Belt · German B2 (Goethe-Institut, 2025).
-
-**Technical:** Power BI · SQL · Python (Pandas, NumPy, SciPy) · ETL · statistical modelling · data visualisation.
-
-**Education:** BSc Economics · MSc Supply Chain & Purchasing Management · MBA Data Science & AI · CIPS.
-
-**Languages:** Portuguese (native) · English (full professional) · German (B2) · Spanish (working).
-
-Currently open to senior roles in container shipping analytics, maritime intelligence, supply chain BI, or carrier commercial analytics. Available immediately. Authorized to work in Brazil and the EU.
+**Full profile and contact:** [linkedin.com/in/hugopedro](https://www.linkedin.com/in/hugopedro/)
 
 This repository is a public case study portfolio for container shipping lines, freight forwarders, port operators, and trade analysts evaluating Brazil commercial and operational strategy.
 
