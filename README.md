@@ -13,9 +13,9 @@ Case studies on Brazil's container shipping market and bilateral maritime trade 
 
 | # | Post | Date | Theme | Folder |
 |---|---|---|---|---|
-| 6 | Brazilian port carrier concentration (HHI) | 16 Jun 2026 | Port-level carrier concentration | (foundational, see below) |
-| 7 | The landed-cost framework for Brazilian port selection | 18 Jun 2026 | Procurement framework | (foundational, see below) |
-| **8** | **Brazil-China trade asymmetry — cargo and ports** | **22 Jun 2026** | **Bilateral trade structure** | [`posts/post08-china-brazil/`](posts/post08-china-brazil/) |
+| 6 | Carrier concentration at Brazilian container ports (HHI) | 16 Jun 2026 | Port-level carrier concentration | [`posts/post06-port-concentration/`](posts/post06-port-concentration/) |
+| 7 | The landed-cost framework for Brazilian port selection | 18 Jun 2026 | Procurement framework | [`posts/post07-landed-cost-framework/`](posts/post07-landed-cost-framework/) |
+| 8 | Brazil-China trade asymmetry — cargo and ports | 22 Jun 2026 | Bilateral trade structure | [`posts/post08-china-brazil/`](posts/post08-china-brazil/) |
 
 Each post folder contains its own README, methodology, scripts, data, and outputs. Posts are self-contained and reproducible.
 
