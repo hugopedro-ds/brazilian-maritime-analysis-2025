@@ -1,0 +1,14 @@
+﻿metric;value;classification
+HHI_carrier_raw;1830.9;Moderately concentrated
+HHI_carrier_identified;2129.3;Moderately concentrated
+HHI_group_raw;1915.1;Moderately concentrated
+HHI_group_identified;2272.6;Moderately concentrated
+HHI_alliance_raw;2201.7;Moderately concentrated
+HHI_alliance_identified;2791.0;Highly concentrated
+top1_share_pct_identified;38.77;MSC
+top3_share_pct_identified;67.95;
+top5_share_pct_identified;81.26;
+total_container_calls;4230.0;
+identified_calls;3154.0;
+unknown_calls;1076.0;
+identification_coverage_pct;74.56;

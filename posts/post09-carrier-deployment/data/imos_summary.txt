@@ -1,0 +1,25 @@
+Post 9 — IMO extraction v2 (container-terminal whitelist)
+============================================================
+
+Container terminal calls (Longo Curso): 5,229
+Unique IMOs found:                      1,019
+Already enriched (vessels_master):      44
+To lookup in VesselFinder:              975
+
+Terminal whitelist (n=15):
+  - Santos: Cais da Santos Brasil (SSZ 16) - Privativo
+  - Santos: Cais da BTP (SSZ 41) - Privativo
+  - Santos: Cais da Ecoporto (SSZ 35) - Privativo
+  - Santos: Cais do TEV (SSZ 18) - Privativo
+  - Paranaguá: TCP
+  - Rio Grande: Cais Tecon Rio Grande S.A.
+  - Rio de Janeiro: Multi-Rio
+  - Rio de Janeiro: ICTSI
+  - Salvador: TECON
+  - Salvador: TECON Área 2
+  - São Francisco do Sul: TESC
+  - Itajaí: Cais Arrendado Transitoriamente
+  - Vitória: Cais de Capuaba
+  - Portonave - Terminais Portuários de Navegantes: Portonave - Terminais Portuários de Navegantes
+  - Super Terminais Comércio e Indústria: Super Terminais Comércio e Indústria
+  - Terminal Portuário do Pecém: Terminal Portuário do Pecém

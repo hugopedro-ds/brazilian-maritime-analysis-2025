@@ -1,0 +1,976 @@
+﻿imo;n_calls_container_terminals;first_seen_port;first_seen_terminal;first_seen_date;n_distinct_ports
+9744685;44;Rio Grande;Cais Tecon Rio Grande S.A.;02/04/2025 00:35;1
+9723253;38;Rio de Janeiro;Multi-Rio;01/10/2025 07:35;7
+9619464;38;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/10/2025 06:30;5
+9720201;36;Rio de Janeiro;Multi-Rio;01/06/2025 18:30;5
+9723241;36;Rio de Janeiro;Multi-Rio;01/03/2025 18:03;7
+9527051;34;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/01/2025 19:44;3
+9630420;33;Paranaguá;TCP;02/02/2025 18:10;7
+9526954;33;Salvador;TECON Área 2;01/09/2025 20:08;4
+9618305;33;Rio Grande;Cais Tecon Rio Grande S.A.;01/05/2025 21:30;7
+9526966;31;Paranaguá;TCP;02/04/2025 15:38;3
+9356141;30;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/10/2025 13:55;6
+9622253;28;Rio Grande;Cais Tecon Rio Grande S.A.;01/06/2025 11:32;3
+9366512;27;Rio Grande;Cais Tecon Rio Grande S.A.;01/12/2025 22:20;1
+9348065;27;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/02/2025 06:40;5
+9622215;27;Santos;Cais da BTP (SSZ 41) - Privativo;01/02/2025 08:53;3
+9777175;26;Santos;Cais da BTP (SSZ 41) - Privativo;02/02/2025 14:30;4
+9687526;26;Paranaguá;TCP;01/09/2025 07:40;5
+9937323;25;Santos;Cais da BTP (SSZ 41) - Privativo;01/07/2025 14:48;4
+9444845;25;Paranaguá;TCP;01/10/2025 17:27;3
+9793923;25;Rio Grande;Cais Tecon Rio Grande S.A.;02/08/2025 23:36;4
+9527063;25;Paranaguá;TCP;05/01/2025 13:06;3
+9768007;25;Santos;Cais da BTP (SSZ 41) - Privativo;01/04/2025 19:30;6
+9348053;23;Rio de Janeiro;ICTSI;04/05/2025 05:35;5
+9945875;23;Rio de Janeiro;ICTSI;01/09/2025 17:10;4
+9250983;23;Itajaí;Cais Arrendado Transitoriamente;01/06/2025 09:30;7
+9702077;23;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/05/2025 15:10;5
+9702261;23;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/02/2025 13:32;6
+9623673;22;Rio Grande;Cais Tecon Rio Grande S.A.;04/02/2025 01:15;5
+9970002;22;Paranaguá;TCP;01/02/2025 03:15;6
+9756729;22;Santos;Cais da BTP (SSZ 41) - Privativo;03/10/2025 09:36;6
+9770751;22;Paranaguá;TCP;01/04/2025 03:42;4
+9327798;22;Rio de Janeiro;Multi-Rio;02/01/2025 12:35;3
+9527049;22;Santos;Cais da BTP (SSZ 41) - Privativo;02/12/2025 03:39;3
+9945887;22;Paranaguá;TCP;04/10/2025 07:50;4
+9619438;22;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/02/2025 08:50;5
+9722663;22;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/05/2025 18:05;3
+9619452;22;Rio de Janeiro;Multi-Rio;02/01/2025 19:45;4
+9945837;22;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/04/2025 15:00;4
+9697002;21;Rio de Janeiro;ICTSI;02/03/2025 08:50;3
+9778088;21;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/03/2025 23:30;4
+9214214;21;Santos;Cais da BTP (SSZ 41) - Privativo;01/02/2025 07:50;3
+9813802;21;Rio de Janeiro;ICTSI;01/10/2025 21:05;3
+9945863;21;Paranaguá;TCP;02/02/2025 07:35;4
+9785469;20;Paranaguá;TCP;01/06/2025 07:55;6
+9633939;20;Paranaguá;TCP;02/03/2025 05:30;3
+9778076;20;Santos;Cais da BTP (SSZ 41) - Privativo;01/02/2025 06:50;4
+9938274;20;Rio de Janeiro;ICTSI;09/01/2025 09:40;4
+9945851;20;Rio de Janeiro;ICTSI;01/02/2025 13:10;4
+9356153;20;Itajaí;Cais Arrendado Transitoriamente;02/06/2025 14:31;3
+9526916;20;Santos;Cais da BTP (SSZ 41) - Privativo;02/03/2025 16:00;3
+9654464;20;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/03/2025 12:14;4
+9938248;19;Rio de Janeiro;ICTSI;01/06/2025 04:30;4
+9938286;19;Paranaguá;TCP;01/05/2025 15:05;4
+9222302;19;Santos;Cais da BTP (SSZ 41) - Privativo;01/04/2025 00:35;5
+9969998;19;Rio de Janeiro;Multi-Rio;01/12/2025 21:15;7
+9398228;19;Itajaí;Cais Arrendado Transitoriamente;01/03/2025 18:56;7
+9085522;19;Paranaguá;TCP;02/04/2025 16:55;7
+9945849;19;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/04/2025 00:15;4
+9731951;19;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/06/2025 09:05;4
+9786724;18;Santos;Cais da BTP (SSZ 41) - Privativo;01/01/2025 13:08;4
+9937335;18;Santos;Cais da BTP (SSZ 41) - Privativo;02/04/2025 07:10;4
+9247546;18;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/02/2025 18:20;4
+9619426;18;Paranaguá;TCP;01/06/2025 01:00;8
+9702089;18;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/04/2025 01:45;7
+9710426;18;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/07/2025 18:00;5
+9629457;18;Salvador;TECON Área 2;01/04/2025 12:21;4
+9969089;17;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/03/2025 13:50;4
+9629469;17;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/07/2025 03:10;4
+9756731;17;Paranaguá;TCP;01/11/2025 17:35;4
+9605152;17;Santos;Cais da BTP (SSZ 41) - Privativo;01/07/2025 07:25;6
+9527037;17;Rio Grande;Cais Tecon Rio Grande S.A.;04/09/2025 13:45;3
+9283186;17;Rio Grande;Cais Tecon Rio Grande S.A.;01/03/2025 20:18;6
+9357949;17;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/07/2025 16:15;5
+9571296;17;Rio Grande;Cais Tecon Rio Grande S.A.;01/08/2025 03:50;4
+9267649;17;Itajaí;Cais Arrendado Transitoriamente;03/01/2025 12:00;6
+9222297;17;Rio de Janeiro;ICTSI;01/11/2025 18:15;4
+9938250;17;Paranaguá;TCP;03/10/2025 01:00;4
+9938262;17;Rio de Janeiro;ICTSI;03/03/2025 15:10;4
+9464247;17;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/06/2025 11:35;5
+9168867;17;Santos;Cais da BTP (SSZ 41) - Privativo;04/07/2025 12:17;7
+9793961;17;Rio de Janeiro;ICTSI;01/12/2025 11:56;5
+9622227;17;Santos;Cais da BTP (SSZ 41) - Privativo;02/08/2025 12:13;3
+9227027;17;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;09/12/2025 16:55;3
+9786736;17;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/09/2025 09:40;4
+9938298;17;Rio de Janeiro;ICTSI;02/05/2025 17:15;4
+9350020;17;Paranaguá;TCP;03/03/2025 07:30;5
+9785457;16;Rio de Janeiro;Multi-Rio;01/04/2025 19:45;7
+1016654;16;Santos;Cais da BTP (SSZ 41) - Privativo;01/12/2025 00:46;8
+9531909;16;Rio de Janeiro;ICTSI;03/08/2025 04:42;4
+9793935;16;Santos;Cais da BTP (SSZ 41) - Privativo;01/05/2025 02:10;4
+1016666;16;Rio de Janeiro;Multi-Rio;01/12/2025 17:50;8
+9605231;16;Rio Grande;Cais Tecon Rio Grande S.A.;04/01/2025 20:45;6
+9793947;16;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;02/12/2025 03:35;4
+9786712;16;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/07/2025 08:25;4
+9632480;16;Rio de Janeiro;Multi-Rio;03/08/2025 04:59;3
+9735218;15;Santos;Cais da BTP (SSZ 41) - Privativo;01/09/2025 23:35;7
+9229829;15;Rio Grande;Cais Tecon Rio Grande S.A.;02/05/2025 00:42;5
+9928188;15;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/09/2025 02:09;2
+9622239;15;Paranaguá;TCP;01/07/2025 01:50;3
+9243162;15;Rio Grande;Cais Tecon Rio Grande S.A.;01/07/2025 16:15;4
+9624299;15;Rio de Janeiro;Multi-Rio;01/05/2025 16:00;3
+9695028;15;Santos;Cais da BTP (SSZ 41) - Privativo;03/10/2025 06:26;6
+9506394;15;Rio Grande;Cais Tecon Rio Grande S.A.;03/10/2025 04:10;3
+9731913;15;Rio de Janeiro;ICTSI;02/05/2025 18:00;4
+9146479;14;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/01/2025 08:30;7
+9478494;14;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/12/2025 16:25;3
+9605243;14;Santos;Cais da BTP (SSZ 41) - Privativo;03/09/2025 15:50;5
+9442861;14;Vitória;Cais de Capuaba;02/03/2025 08:38;3
+9442885;14;Santos;Cais do TEV (SSZ 18) - Privativo;01/05/2025 01:25;2
+9309277;14;Itajaí;Cais Arrendado Transitoriamente;01/04/2025 07:20;3
+9312573;14;Paranaguá;TCP;02/01/2025 19:50;3
+9968853;14;Santos;Cais da BTP (SSZ 41) - Privativo;03/04/2025 10:20;5
+9407160;14;Rio Grande;Cais Tecon Rio Grande S.A.;04/04/2025 13:35;6
+9793894;14;Rio Grande;Cais Tecon Rio Grande S.A.;01/03/2025 09:40;4
+9850800;14;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;04/06/2025 17:50;4
+9227273;14;Paranaguá;TCP;03/02/2025 09:55;3
+9241190;14;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/01/2025 05:54;3
+9225653;14;Rio de Janeiro;ICTSI;02/06/2025 09:05;4
+9395953;14;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/10/2025 19:52;3
+9256470;14;Paranaguá;TCP;01/07/2025 05:20;7
+9574107;14;Santos;Cais do TEV (SSZ 18) - Privativo;02/04/2025 06:53;3
+9778105;14;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/10/2025 16:40;6
+9349540;14;Rio de Janeiro;Multi-Rio;02/06/2025 16:00;6
+9267637;14;Paranaguá;TCP;01/02/2025 09:05;7
+9702065;14;Rio de Janeiro;Multi-Rio;06/08/2025 21:00;8
+9244946;13;Rio de Janeiro;Multi-Rio;04/08/2025 19:05;6
+9928205;13;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/03/2025 20:40;2
+9720512;13;Paranaguá;TCP;01/05/2025 07:47;5
+9344681;13;Itajaí;Cais Arrendado Transitoriamente;03/07/2025 07:53;2
+9701140;13;Santos;Cais do TEV (SSZ 18) - Privativo;04/06/2025 09:30;3
+9719874;13;Rio Grande;Cais Tecon Rio Grande S.A.;04/02/2025 09:20;5
+9127021;13;Rio Grande;Cais Tecon Rio Grande S.A.;03/10/2025 10:15;2
+9437385;13;Rio de Janeiro;ICTSI;02/07/2025 16:25;4
+9405100;13;Rio Grande;Cais Tecon Rio Grande S.A.;03/12/2025 04:00;1
+9314935;13;Rio de Janeiro;ICTSI;01/04/2025 06:12;2
+9722675;13;Rio de Janeiro;ICTSI;04/08/2025 04:34;4
+9285988;13;Rio de Janeiro;Multi-Rio;03/12/2025 12:10;5
+9153862;13;Rio Grande;Cais Tecon Rio Grande S.A.;01/05/2025 14:15;7
+9565546;13;Santos;Cais do TEV (SSZ 18) - Privativo;01/07/2025 16:16;2
+9953391;13;Itajaí;Cais Arrendado Transitoriamente;03/03/2025 00:10;3
+9193317;12;Rio de Janeiro;ICTSI;02/08/2025 02:00;2
+9306196;12;Itajaí;Cais Arrendado Transitoriamente;03/02/2025 08:20;5
+9526899;12;Rio Grande;Cais Tecon Rio Grande S.A.;02/02/2025 17:25;3
+9793959;12;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/02/2025 12:36;4
+9372810;12;Vitória;Cais de Capuaba;10/07/2025 12:10;2
+9246580;12;Santos;Cais da Ecoporto (SSZ 35) - Privativo;06/04/2025 22:36;1
+9526942;12;Santos;Cais da BTP (SSZ 41) - Privativo;04/10/2025 20:57;3
+9246607;12;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/08/2025 12:04;2
+9527025;12;Paranaguá;TCP;03/09/2025 02:30;3
+9278155;12;Itajaí;Cais Arrendado Transitoriamente;02/10/2025 11:55;6
+9362437;12;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/01/2025 21:43;5
+9729075;12;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/09/2025 13:40;4
+9324837;12;Rio de Janeiro;ICTSI;01/07/2025 11:45;3
+9953561;12;Itajaí;Cais Arrendado Transitoriamente;05/05/2025 22:29;3
+9649835;11;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/06/2025 06:00;4
+9706308;11;Santos;Cais da BTP (SSZ 41) - Privativo;01/03/2025 11:06;5
+9330068;11;Rio de Janeiro;Multi-Rio;01/05/2025 13:04;4
+9429326;11;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;02/04/2025 21:00;1
+9458999;11;Rio de Janeiro;ICTSI;03/02/2025 07:15;3
+9850795;11;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/08/2025 13:34;4
+9203538;11;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;12/06/2025 20:40;1
+9196852;11;Salvador;TECON;01/01/2025 22:10;6
+9471898;11;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/05/2025 06:45;3
+9618317;11;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/03/2025 14:00;4
+9943085;11;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;04/07/2025 18:00;2
+9283239;11;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/06/2025 12:00;4
+9622241;10;Paranaguá;TCP;02/02/2025 00:50;3
+9360910;10;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;06/10/2025 07:28;3
+9453365;10;Rio de Janeiro;ICTSI;02/12/2025 14:46;3
+9246592;10;Santos;Cais da Ecoporto (SSZ 35) - Privativo;14/05/2025 21:05;3
+9247766;10;Itajaí;Cais Arrendado Transitoriamente;05/02/2025 02:30;6
+9704960;10;Salvador;TECON Área 2;01/11/2025 00:01;6
+9261889;10;Itajaí;Cais Arrendado Transitoriamente;04/11/2025 13:12;3
+9262118;10;Rio de Janeiro;ICTSI;04/10/2025 15:15;3
+9409209;10;Salvador;TECON;04/07/2025 15:25;4
+9672088;10;Santos;Cais do TEV (SSZ 18) - Privativo;04/12/2025 17:15;1
+9633941;10;Paranaguá;TCP;01/03/2025 03:23;3
+9347554;9;Paranaguá;TCP;02/01/2025 11:06;3
+9253208;9;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/05/2025 01:15;1
+9704996;9;Itajaí;Cais Arrendado Transitoriamente;01/11/2025 17:40;5
+9219795;9;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/02/2025 08:54;7
+9399753;9;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/02/2025 00:35;3
+9275397;9;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;01/05/2025 18:00;1
+9622203;9;Paranaguá;TCP;08/02/2025 05:06;3
+9974486;9;Salvador;TECON;01/03/2025 09:15;7
+9450375;9;Rio de Janeiro;Multi-Rio;02/10/2025 05:55;5
+9567740;8;São Francisco do Sul;TESC;01/04/2025 11:26;1
+9706310;8;Rio de Janeiro;Multi-Rio;03/03/2025 20:00;5
+9827255;8;Santos;Cais do TEV (SSZ 18) - Privativo;06/07/2025 17:33;1
+9251690;8;Rio de Janeiro;Multi-Rio;02/09/2025 23:55;6
+9337688;8;Paranaguá;TCP;01/03/2025 15:07;3
+9770749;8;Paranaguá;TCP;02/10/2025 08:25;6
+9224300;8;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/02/2025 12:40;2
+9302102;8;Rio de Janeiro;Multi-Rio;01/04/2025 21:50;5
+9672090;8;Santos;Cais da Ecoporto (SSZ 35) - Privativo;07/10/2025 13:07;1
+9332860;8;Itajaí;Cais Arrendado Transitoriamente;02/02/2025 23:30;6
+9253026;8;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/01/2025 08:50;3
+9974541;8;Santos;Cais da BTP (SSZ 41) - Privativo;01/04/2025 09:30;6
+9710438;8;Salvador;TECON Área 2;03/06/2025 13:42;6
+9720483;8;Santos;Cais da BTP (SSZ 41) - Privativo;02/11/2025 05:00;7
+1016692;8;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/11/2025 09:12;5
+9288409;8;Rio Grande;Cais Tecon Rio Grande S.A.;01/10/2025 05:30;4
+9307243;8;Rio de Janeiro;Multi-Rio;02/12/2025 08:10;5
+9991202;8;Rio Grande;Cais Tecon Rio Grande S.A.;01/11/2025 11:00;4
+9778090;8;Rio de Janeiro;Multi-Rio;07/11/2025 02:35;4
+9400083;8;Rio Grande;Cais Tecon Rio Grande S.A.;09/05/2025 19:00;5
+9346304;7;Rio Grande;Cais Tecon Rio Grande S.A.;15/12/2025 00:40;3
+9961960;7;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;13/01/2025 02:36;2
+9978949;7;Itajaí;Cais Arrendado Transitoriamente;04/12/2025 11:00;6
+9619440;7;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;01/07/2025 03:40;5
+9310109;7;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/02/2025 15:20;1
+9713351;7;Paranaguá;TCP;07/12/2025 06:40;4
+9727613;7;Santos;Cais da BTP (SSZ 41) - Privativo;07/03/2025 02:55;4
+9727625;7;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;05/02/2025 18:23;4
+9202168;7;Rio Grande;Cais Tecon Rio Grande S.A.;02/10/2025 19:20;5
+9402079;7;Rio de Janeiro;ICTSI;02/11/2025 06:03;3
+9318498;7;Vitória;Cais de Capuaba;13/08/2025 07:50;2
+9720495;7;Santos;Cais da BTP (SSZ 41) - Privativo;06/08/2025 14:40;4
+9286267;7;Rio Grande;Cais Tecon Rio Grande S.A.;04/11/2025 15:55;5
+9565338;7;Rio de Janeiro;ICTSI;01/10/2025 01:27;3
+9316141;7;Santos;Cais do TEV (SSZ 18) - Privativo;10/03/2025 22:29;1
+9539494;7;Salvador;TECON;10/03/2025 17:55;4
+9975583;7;Itajaí;Cais Arrendado Transitoriamente;01/06/2025 01:35;5
+9450337;7;Itajaí;Cais Arrendado Transitoriamente;07/04/2025 05:30;5
+9450351;7;Santos;Cais da BTP (SSZ 41) - Privativo;05/01/2025 19:15;5
+9336062;7;Santos;Cais do TEV (SSZ 18) - Privativo;03/08/2025 08:22;2
+9251688;7;Salvador;TECON Área 2;01/02/2025 23:51;6
+9767998;7;Rio Grande;Cais Tecon Rio Grande S.A.;09/11/2025 18:40;4
+9312559;7;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;05/02/2025 06:05;3
+9343974;7;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/03/2025 14:40;3
+9344643;7;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;07/03/2025 08:40;1
+9393022;7;Rio de Janeiro;Multi-Rio;04/08/2025 11:50;4
+9471886;6;Rio Grande;Cais Tecon Rio Grande S.A.;04/04/2025 03:45;3
+9630406;6;Santos;Cais da BTP (SSZ 41) - Privativo;01/09/2025 13:42;3
+9936513;6;Paranaguá;TCP;01/04/2025 14:42;3
+9813826;6;Santos;Cais da BTP (SSZ 41) - Privativo;08/05/2025 08:56;1
+9625384;6;Itajaí;Cais Arrendado Transitoriamente;09/10/2025 10:33;2
+9629043;6;Paranaguá;TCP;03/04/2025 10:48;4
+9618288;6;Santos;Cais da BTP (SSZ 41) - Privativo;10/01/2025 14:20;5
+9631125;6;Rio de Janeiro;ICTSI;04/10/2025 11:10;2
+9628154;6;Paranaguá;TCP;02/07/2025 07:22;4
+9213806;6;Santos;Cais do TEV (SSZ 18) - Privativo;06/02/2025 05:50;2
+9337664;6;Rio de Janeiro;ICTSI;02/05/2025 03:14;3
+9538658;6;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;03/08/2025 09:03;3
+9146467;6;Salvador;TECON Área 2;08/11/2025 10:24;4
+9230232;6;Itajaí;Cais Arrendado Transitoriamente;08/10/2025 18:00;4
+9141297;6;Rio de Janeiro;Multi-Rio;03/11/2025 12:30;6
+9127071;6;Vitória;Cais de Capuaba;03/02/2025 07:35;1
+9793911;6;Santos;Cais da BTP (SSZ 41) - Privativo;02/11/2025 13:18;3
+9961465;6;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/03/2025 03:10;3
+9978951;6;Rio de Janeiro;Multi-Rio;05/12/2025 03:10;5
+9304459;6;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;08/12/2025 13:00;4
+9680712;6;Santos;Cais do TEV (SSZ 18) - Privativo;02/11/2025 06:50;1
+9979278;6;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/12/2025 11:55;4
+9347578;6;Paranaguá;TCP;11/06/2025 21:20;3
+9253210;6;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/10/2025 15:16;1
+9625530;5;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;11/01/2025 19:50;3
+9961972;5;Salvador;TECON Área 2;03/12/2025 22:28;3
+9618276;5;Rio de Janeiro;Multi-Rio;05/02/2025 14:25;3
+9625542;5;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;06/05/2025 18:36;3
+9398216;5;Paranaguá;TCP;02/03/2025 04:45;5
+9400289;5;Rio de Janeiro;Multi-Rio;13/05/2025 17:55;3
+9229300;5;Salvador;TECON Área 2;07/02/2025 11:57;4
+9216731;5;Itajaí;Cais Arrendado Transitoriamente;11/10/2025 21:46;3
+9515228;5;São Francisco do Sul;TESC;02/06/2025 20:40;1
+9969869;5;Paranaguá;TCP;01/06/2025 18:07;2
+9519119;5;Santos;Cais do TEV (SSZ 18) - Privativo;11/10/2025 04:40;2
+9425186;5;Santos;Cais da Ecoporto (SSZ 35) - Privativo;11/04/2025 11:45;2
+9672105;5;Santos;Cais do TEV (SSZ 18) - Privativo;06/09/2025 01:25;1
+9702106;5;Rio de Janeiro;Multi-Rio;05/08/2025 10:30;3
+9347592;5;Rio Grande;Cais Tecon Rio Grande S.A.;03/09/2025 17:35;3
+9347566;5;Rio Grande;Cais Tecon Rio Grande S.A.;01/07/2025 22:25;3
+9369734;5;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;02/11/2025 18:19;4
+9976719;5;Paranaguá;TCP;03/12/2025 00:45;3
+9574860;5;São Francisco do Sul;TESC;10/02/2025 01:50;1
+9968865;5;Rio de Janeiro;ICTSI;02/11/2025 00:52;4
+9192959;5;Santos;Cais do TEV (SSZ 18) - Privativo;04/05/2025 14:05;1
+9434539;5;São Francisco do Sul;TESC;03/02/2025 06:25;1
+9283203;5;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/09/2025 03:23;4
+9337652;5;Rio Grande;Cais Tecon Rio Grande S.A.;02/06/2025 13:27;2
+9872169;4;Salvador;TECON;01/03/2025 13:46;2
+9294161;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;11/01/2025 00:18;2
+9286243;4;Santos;Cais da BTP (SSZ 41) - Privativo;01/01/2025 16:55;2
+9966788;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;01/11/2025 13:54;1
+9607095;4;Santos;Cais da Ecoporto (SSZ 35) - Privativo;06/01/2025 14:00;2
+9440148;4;Santos;Cais do TEV (SSZ 18) - Privativo;15/10/2025 03:35;1
+9964481;4;Santos;Cais da BTP (SSZ 41) - Privativo;04/01/2025 00:25;2
+9283215;4;Paranaguá;TCP;18/01/2025 17:40;3
+1013171;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;06/12/2025 06:30;4
+9496343;4;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/08/2025 04:54;1
+9724738;4;Santos;Cais do TEV (SSZ 18) - Privativo;08/02/2025 02:43;1
+9990179;4;Vitória;Cais de Capuaba;03/01/2025 14:00;3
+9694593;4;Rio Grande;Cais Tecon Rio Grande S.A.;01/11/2025 14:48;3
+9079212;4;Santos;Cais do TEV (SSZ 18) - Privativo;01/11/2025 09:51;1
+9603221;4;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/12/2025 14:03;1
+9785445;4;Paranaguá;TCP;02/04/2025 10:30;4
+9467445;4;Terminal Portuário do Pecém;Terminal Portuário do Pecém;14/10/2025 09:00;3
+9840673;4;Salvador;TECON;05/11/2025 03:40;2
+9198587;4;Rio de Janeiro;Multi-Rio;04/02/2025 17:52;4
+9633965;4;Paranaguá;TCP;02/02/2025 17:00;2
+9450387;4;Itajaí;Cais Arrendado Transitoriamente;03/02/2025 08:35;4
+1027378;4;Santos;Cais do TEV (SSZ 18) - Privativo;19/05/2025 19:50;1
+9566617;4;São Francisco do Sul;TESC;11/07/2025 22:15;1
+9778399;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;07/01/2025 13:15;2
+9680724;4;Santos;Cais do TEV (SSZ 18) - Privativo;03/08/2025 13:13;1
+9687564;4;Santos;Cais da BTP (SSZ 41) - Privativo;04/02/2025 17:45;3
+9384320;4;Santos;Cais da Ecoporto (SSZ 35) - Privativo;04/12/2025 18:55;3
+9957347;4;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/09/2025 12:32;3
+9402055;4;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/12/2025 08:32;4
+9367188;4;Rio de Janeiro;Multi-Rio;17/02/2025 19:00;3
+9410260;4;Santos;Cais da BTP (SSZ 41) - Privativo;04/06/2025 14:18;1
+9745653;4;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;06/05/2025 04:05;3
+9526928;4;Paranaguá;TCP;12/01/2025 13:55;2
+9704984;4;Rio de Janeiro;Multi-Rio;12/12/2025 11:15;4
+9526904;4;Paranaguá;TCP;02/03/2025 16:37;2
+9323508;4;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;03/01/2025 07:00;2
+9718947;4;Paranaguá;TCP;12/01/2025 15:00;2
+9945473;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;09/02/2025 17:50;2
+9418377;4;Rio de Janeiro;ICTSI;11/05/2025 09:15;1
+9329461;4;Vitória;Cais de Capuaba;10/04/2025 03:30;2
+9351218;4;Rio Grande;Cais Tecon Rio Grande S.A.;03/11/2025 09:18;2
+9864538;4;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;02/09/2025 11:00;3
+9189861;3;São Francisco do Sul;TESC;13/11/2025 15:15;1
+9338541;3;Vitória;Cais de Capuaba;06/01/2025 19:30;1
+9529243;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/02/2025 15:40;2
+9976238;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;14/04/2025 12:10;2
+9197545;3;Salvador;TECON Área 2;11/03/2025 11:45;2
+9465095;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;07/12/2025 19:19;2
+9337614;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;07/08/2025 14:55;2
+9388900;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/03/2025 00:33;2
+9625396;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;08/10/2025 04:37;2
+9461362;3;Salvador;TECON;15/07/2025 23:15;1
+9333840;3;Rio Grande;Cais Tecon Rio Grande S.A.;05/11/2025 11:30;2
+9336050;3;Santos;Cais do TEV (SSZ 18) - Privativo;13/08/2025 13:00;2
+9574858;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;04/10/2025 20:45;2
+9357298;3;Vitória;Cais de Capuaba;01/06/2025 03:30;2
+9593854;3;São Francisco do Sul;TESC;01/03/2025 02:00;1
+9494395;3;Salvador;TECON;03/09/2025 14:00;1
+9990167;3;Rio de Janeiro;ICTSI;12/09/2025 14:15;3
+1053298;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;06/12/2025 15:20;3
+9362827;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;05/03/2025 17:45;2
+9798404;3;Vitória;Cais de Capuaba;02/06/2025 16:00;2
+9534432;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;03/01/2025 14:37;2
+9950090;3;Paranaguá;TCP;09/05/2025 03:42;3
+9975595;3;Santos;Cais da BTP (SSZ 41) - Privativo;10/07/2025 06:15;3
+9333838;3;Rio Grande;Cais Tecon Rio Grande S.A.;17/12/2025 09:50;1
+9977701;3;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;05/10/2025 01:54;1
+9120853;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/05/2025 17:36;2
+9122473;3;Itajaí;Cais Arrendado Transitoriamente;08/07/2025 02:40;3
+9509607;3;Itajaí;Cais Arrendado Transitoriamente;21/02/2025 17:05;2
+9659737;3;São Francisco do Sul;TESC;03/01/2025 19:00;1
+9340570;3;Santos;Cais do TEV (SSZ 18) - Privativo;15/02/2025 13:40;2
+9810343;3;Salvador;TECON;11/02/2025 08:50;2
+9687576;3;Paranaguá;TCP;02/01/2025 13:28;2
+9729099;3;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;12/12/2025 23:40;2
+9821859;3;Vitória;Cais de Capuaba;07/05/2025 14:00;2
+9487524;3;Rio Grande;Cais Tecon Rio Grande S.A.;01/10/2025 17:30;1
+9285639;3;Santos;Cais do TEV (SSZ 18) - Privativo;02/08/2025 11:25;2
+9311866;3;Santos;Cais do TEV (SSZ 18) - Privativo;04/11/2025 01:27;2
+9441556;3;Santos;Cais do TEV (SSZ 18) - Privativo;25/10/2025 23:40;1
+9441506;3;Santos;Cais do TEV (SSZ 18) - Privativo;14/08/2025 02:18;1
+9526930;3;Paranaguá;TCP;09/02/2025 14:20;2
+9409338;3;Santos;Cais do TEV (SSZ 18) - Privativo;02/05/2025 18:20;2
+9864514;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;11/02/2025 19:35;3
+9437933;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;24/03/2025 11:43;1
+9957488;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/08/2025 01:20;1
+9437309;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;14/12/2025 19:45;2
+9629110;3;Rio de Janeiro;ICTSI;07/01/2025 10:30;3
+9607083;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;06/12/2025 21:15;2
+9926192;3;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;05/12/2025 15:30;2
+9300489;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;07/11/2025 07:49;1
+9880116;3;São Francisco do Sul;TESC;02/03/2025 09:10;1
+9637155;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;03/08/2025 19:25;2
+9526887;3;Santos;Cais da BTP (SSZ 41) - Privativo;09/03/2025 21:20;2
+9423516;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;17/12/2025 10:26;2
+9969065;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/12/2025 09:10;2
+9401104;3;Salvador;TECON Área 2;21/12/2025 17:53;2
+9330719;3;Rio Grande;Cais Tecon Rio Grande S.A.;07/05/2025 13:25;3
+9703538;3;Santos;Cais da Ecoporto (SSZ 35) - Privativo;05/03/2025 06:55;2
+9641235;3;Rio Grande;Cais Tecon Rio Grande S.A.;02/10/2025 22:22;2
+9323522;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;02/06/2025 13:12;2
+9852365;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/12/2025 23:35;1
+9330707;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;16/01/2025 23:30;2
+9259393;3;Salvador;TECON;19/02/2025 00:40;2
+9260835;3;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/04/2025 15:58;1
+9702273;3;Santos;Cais da BTP (SSZ 41) - Privativo;02/11/2025 15:01;3
+9686912;3;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;13/01/2025 17:00;3
+9542348;2;Rio de Janeiro;ICTSI;17/08/2025 00:30;2
+9607576;2;São Francisco do Sul;TESC;06/02/2025 07:00;1
+9525950;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;07/02/2025 03:16;1
+9589097;2;Salvador;TECON;12/10/2025 16:20;2
+9561265;2;Vitória;Cais de Capuaba;10/10/2025 14:05;2
+9559884;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/10/2025 22:43;2
+9737125;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/06/2025 22:25;1
+9725134;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;08/03/2025 21:15;2
+9571387;2;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;03/03/2025 23:14;2
+9593402;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/09/2025 03:26;1
+9553725;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/12/2025 09:32;2
+9717228;2;Paranaguá;TCP;02/11/2025 18:15;1
+9747651;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/05/2025 21:48;2
+9511636;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;04/11/2025 23:47;2
+9611046;2;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;07/07/2025 04:18;1
+9544920;2;Vitória;Cais de Capuaba;16/05/2025 02:30;2
+9561875;2;São Francisco do Sul;TESC;03/06/2025 17:00;2
+9717204;2;Paranaguá;TCP;02/09/2025 01:17;1
+9603790;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;07/01/2025 18:55;2
+9531715;2;Santos;Cais do TEV (SSZ 18) - Privativo;15/02/2025 12:50;2
+9561344;2;Vitória;Cais de Capuaba;17/02/2025 07:10;2
+9784661;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;11/06/2025 23:10;1
+9727132;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/11/2025 17:48;1
+9734185;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;13/02/2025 00:05;1
+9574080;2;Vitória;Cais de Capuaba;08/09/2025 04:15;2
+9715440;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/05/2025 10:24;1
+9535199;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;15/01/2025 04:53;1
+9534470;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;11/12/2025 18:30;2
+9612765;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/09/2025 03:12;1
+9266554;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;03/05/2025 09:45;2
+9970014;2;Itajaí;Cais Arrendado Transitoriamente;05/01/2025 22:35;2
+9285627;2;Santos;Cais do TEV (SSZ 18) - Privativo;05/02/2025 12:15;2
+9285641;2;Vitória;Cais de Capuaba;25/06/2025 02:00;2
+9285665;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/06/2025 04:00;2
+9288394;2;Rio de Janeiro;Multi-Rio;06/01/2025 10:50;2
+9968994;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;19/03/2025 14:00;2
+9293765;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;03/01/2025 22:06;2
+9295361;2;Itajaí;Cais Arrendado Transitoriamente;12/11/2025 02:05;2
+9299795;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;08/11/2025 14:20;2
+9303168;2;Vitória;Cais de Capuaba;13/10/2025 10:30;1
+9305647;2;Paranaguá;TCP;14/11/2025 08:55;2
+9305661;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;07/11/2025 19:45;2
+9663300;2;Santos;Cais do TEV (SSZ 18) - Privativo;15/07/2025 10:28;1
+9963401;2;Vitória;Cais de Capuaba;24/03/2025 16:05;2
+9962598;2;Santos;Cais da BTP (SSZ 41) - Privativo;14/12/2025 18:54;2
+9309459;2;Salvador;TECON Área 2;01/12/2025 17:20;2
+9310628;2;São Francisco do Sul;TESC;13/01/2025 23:55;1
+9311854;2;Santos;Cais do TEV (SSZ 18) - Privativo;03/04/2025 05:38;1
+9313199;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;17/12/2025 10:40;2
+9671436;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/08/2025 17:03;2
+9321029;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;07/09/2025 07:02;1
+9956185;2;Salvador;TECON;24/09/2025 10:55;1
+9323510;2;Paranaguá;TCP;14/03/2025 05:50;2
+9385506;2;São Francisco do Sul;TESC;25/05/2025 13:30;1
+9951575;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;27/12/2025 05:48;1
+9951185;2;Rio Grande;Cais Tecon Rio Grande S.A.;22/05/2025 04:32;2
+9663776;2;São Francisco do Sul;TESC;22/01/2025 15:15;1
+9305673;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;15/12/2025 08:15;2
+9998482;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;22/11/2025 04:20;2
+1027380;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;14/09/2025 18:20;1
+9997919;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;14/03/2025 07:56;2
+9695224;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/01/2025 08:49;2
+1027366;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;19/11/2025 09:05;1
+9994802;2;São Francisco do Sul;TESC;10/02/2025 20:45;1
+9983695;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;25/03/2025 05:25;2
+1053315;2;Salvador;TECON;10/11/2025 23:55;2
+9008706;2;São Francisco do Sul;TESC;09/10/2025 03:52;1
+9088524;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;25/06/2025 10:35;2
+9122942;2;Vitória;Cais de Capuaba;04/01/2025 05:30;2
+9976587;2;Paranaguá;TCP;05/09/2025 14:55;2
+9162215;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;30/11/2025 06:57;1
+9169328;2;Vitória;Cais de Capuaba;02/09/2025 18:18;2
+9976496;2;Salvador;TECON Área 2;02/08/2025 10:00;1
+9976458;2;Salvador;TECON Área 2;24/02/2025 13:15;1
+9208186;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;06/11/2025 01:44;2
+9211494;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;12/10/2025 02:50;1
+9213959;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/05/2025 18:10;2
+9976410;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/10/2025 13:00;2
+9224049;2;Salvador;TECON Área 2;06/08/2025 03:00;2
+9227285;2;Salvador;TECON;21/03/2025 14:40;2
+9232814;2;São Francisco do Sul;TESC;23/03/2025 21:45;1
+9701372;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/02/2025 10:12;1
+9248148;2;Salvador;TECON Área 2;09/01/2025 18:30;2
+9252216;2;Vitória;Cais de Capuaba;22/09/2025 01:30;2
+9252228;2;Vitória;Cais de Capuaba;12/08/2025 16:25;2
+9256482;2;Salvador;TECON Área 2;08/01/2025 00:53;2
+9974474;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/01/2025 03:44;2
+9179725;2;Vitória;Cais de Capuaba;16/10/2025 19:30;2
+9427031;2;São Francisco do Sul;TESC;01/07/2025 14:50;1
+9428425;2;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;12/06/2025 16:20;2
+9327669;2;Santos;Cais da BTP (SSZ 41) - Privativo;16/05/2025 17:55;2
+9872183;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;12/05/2025 14:17;2
+9438585;2;Vitória;Cais de Capuaba;28/08/2025 01:30;1
+9440150;2;Salvador;TECON;12/11/2025 23:20;2
+9627904;2;Santos;Cais da BTP (SSZ 41) - Privativo;22/01/2025 01:17;2
+9860506;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/06/2025 19:36;1
+9443920;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/10/2025 09:10;2
+9445394;2;Santos;Cais do TEV (SSZ 18) - Privativo;06/08/2025 16:20;1
+9419254;2;São Francisco do Sul;TESC;02/08/2025 09:09;1
+9464699;2;Rio Grande;Cais Tecon Rio Grande S.A.;01/08/2025 14:30;1
+9711298;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/11/2025 17:06;1
+9810329;2;Salvador;TECON;17/03/2025 08:50;2
+9484223;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/05/2025 23:28;2
+9484431;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/12/2025 16:31;1
+9486116;2;Rio Grande;Cais Tecon Rio Grande S.A.;10/09/2025 19:50;1
+9488217;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/03/2025 13:55;2
+9490624;2;Vitória;Cais de Capuaba;02/07/2025 16:15;1
+9494242;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/09/2025 08:22;1
+9494905;2;Vitória;Cais de Capuaba;12/04/2025 01:55;1
+9496214;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/07/2025 22:34;1
+9497218;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;24/03/2025 10:15;1
+9497488;2;Vitória;Cais de Capuaba;05/09/2025 13:00;1
+9625528;2;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;21/01/2025 09:30;2
+9366225;2;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;13/06/2025 09:33;1
+9373333;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;13/03/2025 09:50;1
+9378395;2;São Francisco do Sul;TESC;23/08/2025 15:35;1
+9382097;2;Vitória;Cais de Capuaba;04/09/2025 12:15;1
+9875642;2;São Francisco do Sul;TESC;03/02/2025 13:30;1
+9937256;2;Salvador;TECON;23/05/2025 16:58;1
+9383431;2;Santos;Cais do TEV (SSZ 18) - Privativo;10/11/2025 14:06;1
+9647863;2;São Francisco do Sul;TESC;24/08/2025 21:05;1
+9929302;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/01/2025 18:40;1
+9641352;2;São Francisco do Sul;TESC;09/08/2025 17:15;2
+9401518;2;São Francisco do Sul;TESC;06/05/2025 11:00;1
+9347607;2;Paranaguá;TCP;28/01/2025 16:10;2
+9347619;2;Paranaguá;TCP;14/02/2025 16:05;2
+9416991;2;Rio Grande;Cais Tecon Rio Grande S.A.;11/07/2025 20:50;1
+9416707;2;São Francisco do Sul;TESC;05/03/2025 19:40;1
+9939084;2;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/12/2025 22:48;1
+9409326;2;Santos;Cais do TEV (SSZ 18) - Privativo;11/04/2025 12:30;2
+9348493;2;Santos;Cais da Ecoporto (SSZ 35) - Privativo;07/08/2025 00:38;2
+9638460;2;Santos;Cais do TEV (SSZ 18) - Privativo;01/10/2025 13:50;2
+9641223;2;Itajaí;Cais Arrendado Transitoriamente;04/01/2025 03:35;2
+9926568;2;Vitória;Cais de Capuaba;15/05/2025 01:00;1
+9698800;1;Vitória;Cais de Capuaba;02/12/2025 14:30;1
+9717515;1;Vitória;Cais de Capuaba;22/04/2025 14:45;1
+9703540;1;Vitória;Cais de Capuaba;17/08/2025 20:55;1
+9700653;1;Vitória;Cais de Capuaba;02/04/2025 21:40;1
+9721310;1;Vitória;Cais de Capuaba;05/07/2025 11:30;1
+9717216;1;Paranaguá;TCP;30/11/2025 19:12;1
+9714733;1;Vitória;Cais de Capuaba;20/11/2025 15:10;1
+9714343;1;Vitória;Cais de Capuaba;13/11/2025 08:25;1
+9719537;1;São Francisco do Sul;TESC;20/11/2025 15:39;1
+9700677;1;Salvador;TECON;21/07/2025 05:35;1
+9712888;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/09/2025 15:57;1
+9721322;1;Vitória;Cais de Capuaba;30/08/2025 23:05;1
+9707003;1;Santos;Cais do TEV (SSZ 18) - Privativo;07/07/2025 08:52;1
+9707584;1;Salvador;TECON;19/05/2025 18:30;1
+9715452;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/10/2025 02:18;1
+9707845;1;Vitória;Cais de Capuaba;31/08/2025 18:55;1
+9709348;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/09/2025 12:24;1
+9720055;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;27/04/2025 05:23;1
+9950442;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/11/2025 12:28;1
+9949699;1;Vitória;Cais de Capuaba;29/08/2025 19:30;1
+9949364;1;São Francisco do Sul;TESC;03/12/2025 20:15;1
+9942639;1;São Francisco do Sul;TESC;22/10/2025 21:30;1
+9939072;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;23/12/2025 18:26;1
+9936795;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/12/2025 13:06;1
+9936525;1;Paranaguá;TCP;11/05/2025 16:50;1
+9934814;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;04/03/2025 06:15;1
+9933224;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/06/2025 15:50;1
+9932804;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;19/06/2025 20:32;1
+9932098;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/02/2025 12:02;1
+9928920;1;Salvador;TECON;16/01/2025 10:35;1
+9928906;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/08/2025 14:35;1
+9928891;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/07/2025 02:47;1
+9700392;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/08/2025 16:16;1
+9928877;1;Paranaguá;TCP;22/04/2025 18:35;1
+9919644;1;Vitória;Cais de Capuaba;04/12/2025 14:50;1
+9917050;1;Salvador;TECON;06/04/2025 10:05;1
+9914503;1;Vitória;Cais de Capuaba;05/09/2025 22:15;1
+9903205;1;Vitória;Cais de Capuaba;08/05/2025 20:30;1
+9890642;1;Vitória;Cais de Capuaba;28/01/2025 15:40;1
+9885295;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/06/2025 05:17;1
+9881653;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/05/2025 11:35;1
+9880245;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;31/08/2025 23:08;1
+9872195;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;13/04/2025 16:54;1
+9872171;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;07/07/2025 04:26;1
+9866782;1;Vitória;Cais de Capuaba;04/02/2025 04:00;1
+9866524;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/08/2025 16:44;1
+9866184;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/04/2025 09:47;1
+9863871;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/08/2025 03:54;1
+9928889;1;Itajaí;Cais Arrendado Transitoriamente;21/09/2025 19:07;1
+9997921;1;Salvador;TECON;27/07/2025 18:15;1
+9996018;1;Salvador;TECON;25/01/2025 08:15;1
+9995351;1;Vitória;Cais de Capuaba;18/07/2025 16:15;1
+9990832;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/03/2025 21:38;1
+9982196;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;24/11/2025 17:58;1
+9979046;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/06/2025 17:37;1
+9080297;1;Santos;Cais do TEV (SSZ 18) - Privativo;03/01/2025 00:55;1
+9976628;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;30/06/2025 20:58;1
+9976501;1;Salvador;TECON;22/06/2025 05:40;1
+9976472;1;Paranaguá;TCP;20/01/2025 15:10;1
+9976434;1;Salvador;TECON;20/10/2025 04:30;1
+9976422;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;17/07/2025 00:40;1
+9976202;1;Paranaguá;TCP;24/02/2025 21:50;1
+9976056;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;15/06/2025 08:55;1
+9950894;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;08/02/2025 14:50;1
+9972452;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/10/2025 01:15;1
+9970234;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;31/03/2025 05:37;1
+9969182;1;São Francisco do Sul;TESC;10/04/2025 01:20;1
+9969156;1;Salvador;TECON;30/07/2025 06:55;1
+9967110;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/05/2025 12:55;1
+9966764;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;07/06/2025 07:05;1
+9966582;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/10/2025 17:08;1
+9964883;1;Vitória;Cais de Capuaba;15/10/2025 15:40;1
+9963413;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/05/2025 11:03;1
+9956850;1;Salvador;TECON;09/04/2025 17:35;1
+9956410;1;Rio de Janeiro;ICTSI;02/11/2025 14:30;1
+9956202;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/05/2025 16:05;1
+9955428;1;Rio de Janeiro;ICTSI;31/05/2025 10:05;1
+9953315;1;Vitória;Cais de Capuaba;11/09/2025 18:00;1
+9950909;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/11/2025 05:38;1
+9972646;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/12/2025 10:20;1
+9775385;1;Vitória;Cais de Capuaba;22/05/2025 11:30;1
+9775139;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/05/2025 17:26;1
+9767716;1;São Francisco do Sul;TESC;25/04/2025 00:15;1
+9766918;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;16/01/2025 22:53;1
+9762493;1;Vitória;Cais de Capuaba;06/10/2025 12:50;1
+9761334;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/03/2025 06:02;1
+9760110;1;Vitória;Cais de Capuaba;05/10/2025 15:00;1
+9755737;1;Vitória;Cais de Capuaba;06/02/2025 00:20;1
+9755684;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;29/03/2025 08:35;1
+9752022;1;Vitória;Cais de Capuaba;02/04/2025 22:10;1
+9748253;1;São Francisco do Sul;TESC;29/11/2025 22:10;1
+9747302;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/11/2025 05:15;1
+9746970;1;São Francisco do Sul;TESC;09/04/2025 00:25;1
+9746700;1;Salvador;TECON;26/11/2025 15:40;1
+9863819;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/12/2025 00:19;1
+9741578;1;Vitória;Cais de Capuaba;26/02/2025 03:00;1
+9741152;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/08/2025 08:08;1
+9739563;1;São Francisco do Sul;TESC;08/03/2025 12:30;1
+9736963;1;Vitória;Cais de Capuaba;28/01/2025 07:25;1
+9736066;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/04/2025 16:12;1
+9735816;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;26/02/2025 10:00;1
+9735799;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/02/2025 11:51;1
+9735206;1;Salvador;TECON;06/09/2025 15:20;1
+9733363;1;Rio de Janeiro;ICTSI;04/09/2025 17:30;1
+9731236;1;São Francisco do Sul;TESC;31/05/2025 10:50;1
+9727297;1;Salvador;TECON;22/04/2025 13:05;1
+9725859;1;Rio de Janeiro;ICTSI;21/04/2025 19:00;1
+9725419;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;24/12/2024 05:15;1
+9725017;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/03/2025 22:20;1
+9722467;1;Vitória;Cais de Capuaba;25/08/2025 12:10;1
+9746188;1;Vitória;Cais de Capuaba;06/03/2025 17:40;1
+9861990;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/02/2025 11:27;1
+9860611;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/03/2025 10:02;1
+9860582;1;Vitória;Cais de Capuaba;30/04/2025 17:50;1
+9860283;1;Vitória;Cais de Capuaba;15/09/2025 13:00;1
+9858539;1;Salvador;TECON;24/10/2025 14:45;1
+9853888;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;08/04/2025 11:46;1
+9852925;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;24/08/2025 19:12;1
+9846495;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;20/03/2025 12:20;1
+9846067;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/12/2025 20:20;1
+9843742;1;Vitória;Cais de Capuaba;14/11/2025 12:20;1
+9841653;1;Vitória;Cais de Capuaba;07/03/2025 14:10;1
+9839105;1;Vitória;Cais de Capuaba;02/02/2025 19:35;1
+9837640;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/10/2025 17:59;1
+9831787;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/11/2025 17:37;1
+9830135;1;Vitória;Cais de Capuaba;15/05/2025 14:15;1
+9775854;1;Vitória;Cais de Capuaba;17/12/2025 15:35;1
+9820958;1;São Francisco do Sul;TESC;31/05/2025 18:20;1
+9813101;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;17/05/2025 02:31;1
+9812016;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;10/07/2025 06:22;1
+9806768;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/12/2025 22:37;1
+9805659;1;Vitória;Cais de Capuaba;31/07/2025 17:10;1
+9805257;1;Vitória;Cais de Capuaba;14/07/2025 20:30;1
+9803417;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/03/2025 10:45;1
+9801093;1;Vitória;Cais de Capuaba;27/06/2025 03:25;1
+9799771;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/03/2025 06:27;1
+9798832;1;São Francisco do Sul;TESC;17/03/2025 03:20;1
+9796822;1;Vitória;Cais de Capuaba;30/12/2025 00:55;1
+9786073;1;Vitória;Cais de Capuaba;07/04/2025 23:10;1
+9786047;1;São Francisco do Sul;TESC;26/07/2025 17:10;1
+9785134;1;Vitória;Cais de Capuaba;19/04/2025 19:40;1
+9782156;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/04/2025 16:57;1
+9820996;1;Vitória;Cais de Capuaba;17/10/2025 01:25;1
+9383429;1;Santos;Cais do TEV (SSZ 18) - Privativo;14/09/2025 02:40;1
+9385477;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;13/07/2025 16:35;1
+9386392;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;23/05/2025 05:18;1
+9386407;1;Vitória;Cais de Capuaba;12/05/2025 03:10;1
+9388716;1;Santos;Cais do TEV (SSZ 18) - Privativo;23/09/2025 21:05;1
+9389215;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/08/2025 00:55;1
+9393151;1;Vitória;Cais de Capuaba;21/03/2025 14:45;1
+9395044;1;Santos;Cais da BTP (SSZ 41) - Privativo;26/12/2025 12:32;1
+9997933;1;Salvador;TECON Área 2;02/09/2025 22:00;1
+9396153;1;São Francisco do Sul;TESC;05/11/2025 14:38;1
+9401946;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;14/08/2025 19:07;1
+9402043;1;Vitória;Cais de Capuaba;19/09/2025 10:10;1
+9402093;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;14/02/2025 09:25;1
+9407603;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/02/2025 17:25;1
+9407873;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/11/2025 23:40;1
+9414187;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/05/2025 22:03;1
+9414474;1;Vitória;Cais de Capuaba;10/12/2025 07:15;1
+9416721;1;São Francisco do Sul;TESC;30/03/2025 15:45;1
+9396141;1;São Francisco do Sul;TESC;02/03/2025 17:30;1
+9347841;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/06/2025 11:31;1
+9357200;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;11/07/2025 20:10;1
+9357212;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/08/2025 16:08;1
+9357224;1;São Francisco do Sul;TESC;05/06/2025 06:30;1
+9357303;1;Santos;Cais do TEV (SSZ 18) - Privativo;01/08/2025 11:26;1
+9357327;1;Santos;Cais do TEV (SSZ 18) - Privativo;22/08/2025 23:44;1
+9360192;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;07/05/2025 22:13;1
+9371816;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;11/12/2025 06:21;1
+9361782;1;Vitória;Cais de Capuaba;03/03/2025 08:50;1
+9362633;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;28/02/2025 21:30;1
+9363948;1;Santos;Cais do TEV (SSZ 18) - Privativo;21/09/2025 15:10;1
+9364801;1;Vitória;Cais de Capuaba;12/01/2025 14:35;1
+9365661;1;Vitória;Cais de Capuaba;14/12/2025 08:30;1
+9366108;1;São Francisco do Sul;TESC;30/01/2025 16:00;1
+9368845;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;24/04/2025 00:39;1
+9369095;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;01/07/2025 08:35;1
+9370408;1;São Francisco do Sul;TESC;10/09/2025 23:30;1
+9360958;1;Rio de Janeiro;ICTSI;05/04/2025 01:30;1
+9441568;1;Santos;Cais do TEV (SSZ 18) - Privativo;18/04/2025 01:48;1
+9441611;1;Santos;Cais do TEV (SSZ 18) - Privativo;07/12/2025 22:52;1
+9441867;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;08/03/2025 23:30;1
+9442926;1;São Francisco do Sul;TESC;23/07/2025 10:30;1
+9445409;1;Santos;Cais do TEV (SSZ 18) - Privativo;05/05/2025 23:19;1
+9446001;1;Vitória;Cais de Capuaba;09/06/2025 13:30;1
+9446013;1;Vitória;Cais de Capuaba;31/03/2025 11:45;1
+9448255;1;São Francisco do Sul;TESC;13/06/2025 04:25;1
+9449883;1;São Francisco do Sul;TESC;08/07/2025 09:20;1
+9418468;1;São Francisco do Sul;TESC;21/09/2025 20:15;1
+9451006;1;Vitória;Cais de Capuaba;15/06/2025 14:55;1
+9452139;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/03/2025 12:36;1
+9453793;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;30/04/2025 13:30;1
+9454711;1;Vitória;Cais de Capuaba;30/11/2025 19:15;1
+9458987;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/10/2025 17:57;1
+9459400;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;07/01/2025 19:50;1
+9460887;1;Vitória;Cais de Capuaba;10/09/2025 17:20;1
+9461154;1;São Francisco do Sul;TESC;06/04/2025 15:20;1
+9461453;1;São Francisco do Sul;TESC;18/01/2025 13:45;1
+9450703;1;Vitória;Cais de Capuaba;15/11/2025 19:35;1
+9419230;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/12/2025 09:08;1
+9419242;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/08/2025 08:46;1
+9423786;1;Vitória;Cais de Capuaba;09/08/2025 11:50;1
+9425148;1;São Francisco do Sul;TESC;12/06/2025 01:25;1
+9425667;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/05/2025 21:44;1
+9425887;1;Vitória;Cais de Capuaba;06/01/2025 08:35;1
+9426154;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/10/2025 06:05;1
+9426300;1;Vitória;Cais de Capuaba;08/12/2025 18:55;1
+9430131;1;Vitória;Cais de Capuaba;18/06/2025 03:40;1
+9441427;1;São Francisco do Sul;TESC;05/08/2025 00:50;1
+9432139;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;21/03/2025 01:04;1
+9433327;1;Rio de Janeiro;ICTSI;30/01/2025 16:00;1
+9433614;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/06/2025 16:20;1
+9433652;1;São Francisco do Sul;TESC;02/11/2025 22:08;1
+9435117;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;03/08/2025 10:05;1
+9435129;1;Vitória;Cais de Capuaba;22/02/2025 17:20;1
+9438066;1;Itajaí;Cais Arrendado Transitoriamente;19/01/2025 08:53;1
+9438638;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/01/2025 22:50;1
+9440928;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/10/2025 20:36;1
+9430399;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;29/06/2025 14:55;1
+9169316;1;Vitória;Cais de Capuaba;01/11/2025 22:05;1
+9182966;1;São Francisco do Sul;TESC;12/12/2025 15:55;1
+9184859;1;Santos;Cais do TEV (SSZ 18) - Privativo;16/11/2025 16:25;1
+9186780;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;29/08/2025 08:49;1
+9197911;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/09/2025 05:25;1
+9213935;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;23/03/2025 17:41;1
+9217656;1;São Francisco do Sul;TESC;16/09/2025 21:00;1
+9228306;1;Santos;Cais do TEV (SSZ 18) - Privativo;11/11/2025 21:55;1
+9347839;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;27/11/2025 23:40;1
+9244829;1;São Francisco do Sul;TESC;05/07/2025 10:20;1
+9252204;1;Vitória;Cais de Capuaba;29/11/2025 12:40;1
+9254642;1;São Francisco do Sul;TESC;16/10/2025 23:26;1
+9254654;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;30/03/2025 10:22;1
+9258557;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;07/05/2025 05:57;1
+9261047;1;São Francisco do Sul;TESC;24/06/2025 09:30;1
+9266906;1;Vitória;Cais de Capuaba;20/01/2025 07:05;1
+9238741;1;Rio de Janeiro;Multi-Rio;03/01/2025 14:30;1
+1014618;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/10/2025 13:07;1
+1015961;1;Paranaguá;TCP;28/12/2025 17:35;1
+1016680;1;Itajaí;Cais Arrendado Transitoriamente;13/10/2025 15:45;1
+1017713;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;20/08/2025 14:18;1
+1024455;1;Vitória;Cais de Capuaba;29/06/2025 07:45;1
+1042122;1;Vitória;Cais de Capuaba;30/07/2025 08:30;1
+1048334;1;Itajaí;Cais Arrendado Transitoriamente;15/12/2025 02:54;1
+1049807;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/12/2025 15:14;1
+1051109;1;Salvador;TECON;21/08/2025 06:40;1
+9145786;1;São Francisco do Sul;TESC;13/08/2025 23:20;1
+1051939;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;25/10/2025 16:35;1
+1079292;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;04/08/2025 21:52;1
+1094993;1;Vitória;Cais de Capuaba;28/11/2025 12:15;1
+8512906;1;Itajaí;Cais Arrendado Transitoriamente;12/10/2025 17:22;1
+9007544;1;São Francisco do Sul;TESC;11/01/2025 00:45;1
+9107306;1;São Francisco do Sul;TESC;20/07/2025 20:00;1
+9107318;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/09/2025 14:34;1
+9142954;1;Vitória;Cais de Capuaba;08/04/2025 06:50;1
+9145231;1;Vitória;Cais de Capuaba;29/09/2025 07:10;1
+1051111;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;18/09/2025 13:50;1
+9310575;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;20/02/2025 07:25;1
+9310721;1;Vitória;Cais de Capuaba;22/01/2025 07:25;1
+9311763;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;29/11/2025 13:15;1
+9312664;1;Vitória;Cais de Capuaba;18/01/2025 06:50;1
+9316361;1;Salvador;TECON;07/07/2025 18:45;1
+9317690;1;Vitória;Cais de Capuaba;26/07/2025 07:05;1
+9317729;1;São Francisco do Sul;TESC;21/05/2025 02:30;1
+9319753;1;Vitória;Cais de Capuaba;05/03/2025 23:25;1
+9321108;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;11/06/2025 10:34;1
+9267687;1;Santos;Cais do TEV (SSZ 18) - Privativo;19/08/2025 05:10;1
+9325178;1;Vitória;Cais de Capuaba;22/11/2025 11:40;1
+9326768;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;29/07/2025 22:45;1
+9326835;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;21/01/2025 16:00;1
+9331397;1;São Francisco do Sul;TESC;18/07/2025 00:05;1
+9338137;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;05/05/2025 20:14;1
+9338838;1;Santos;Cais do TEV (SSZ 18) - Privativo;17/02/2025 04:55;1
+9338852;1;Santos;Cais do TEV (SSZ 18) - Privativo;16/07/2025 20:04;1
+9343637;1;São Francisco do Sul;TESC;26/04/2025 08:35;1
+9347827;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/11/2025 14:47;1
+9324148;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/05/2025 11:37;1
+9267699;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;18/06/2025 19:30;1
+9272216;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;29/09/2025 09:52;1
+9278143;1;Santos;Cais da BTP (SSZ 41) - Privativo;06/01/2025 13:30;1
+9280770;1;São Francisco do Sul;TESC;29/03/2025 02:25;1
+9285615;1;Santos;Cais do TEV (SSZ 18) - Privativo;23/12/2025 01:55;1
+9289934;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;21/06/2025 21:30;1
+9292137;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;19/11/2025 02:11;1
+9293595;1;Santos;Cais do TEV (SSZ 18) - Privativo;14/03/2025 02:00;1
+9293624;1;Vitória;Cais de Capuaba;13/05/2025 02:10;1
+9308895;1;Santos;Cais do TEV (SSZ 18) - Privativo;21/11/2025 04:00;1
+9293650;1;Vitória;Cais de Capuaba;16/06/2025 15:20;1
+9295220;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;21/09/2025 18:15;1
+9301043;1;São Francisco do Sul;TESC;07/01/2025 12:30;1
+9302097;1;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;28/08/2025 15:00;1
+9303314;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/10/2025 18:23;1
+9305087;1;São Francisco do Sul;TESC;08/06/2025 21:15;1
+9305207;1;São Francisco do Sul;TESC;04/10/2025 01:30;1
+9307229;1;Santos;Cais da BTP (SSZ 41) - Privativo;30/12/2024 21:25;1
+9308807;1;Vitória;Cais de Capuaba;14/10/2025 16:15;1
+9293648;1;Santos;Cais do TEV (SSZ 18) - Privativo;24/09/2025 21:52;1
+9593658;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;02/11/2025 04:30;1
+9593713;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;23/05/2025 09:35;1
+9593878;1;Rio de Janeiro;ICTSI;16/07/2025 14:40;1
+9593880;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;03/01/2025 00:55;1
+9593892;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;27/10/2025 20:22;1
+9595187;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/01/2025 10:21;1
+9595943;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;29/09/2025 13:26;1
+9596179;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/03/2025 07:32;1
+9463657;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/02/2025 01:44;1
+9603219;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/11/2025 14:05;1
+9609354;1;Vitória;Cais de Capuaba;13/10/2025 07:35;1
+9609457;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;08/11/2025 05:26;1
+9610418;1;Santos;Cais do TEV (SSZ 18) - Privativo;16/12/2025 15:51;1
+9610420;1;Santos;Cais do TEV (SSZ 18) - Privativo;22/03/2025 11:30;1
+9610444;1;Santos;Cais do TEV (SSZ 18) - Privativo;18/07/2025 01:05;1
+9610705;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/03/2025 09:35;1
+9610743;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/04/2025 23:30;1
+9603116;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;11/10/2025 06:22;1
+9561904;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;17/03/2025 22:18;1
+9562453;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/08/2025 20:37;1
+9563615;1;São Francisco do Sul;TESC;15/02/2025 03:15;1
+9563627;1;Vitória;Cais de Capuaba;23/12/2025 17:20;1
+9563732;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/11/2025 19:43;1
+9565560;1;Vitória;Cais de Capuaba;03/01/2025 04:35;1
+9569279;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/10/2025 14:14;1
+9569968;1;São Francisco do Sul;TESC;14/08/2025 12:00;1
+9571375;1;Rio de Janeiro;ICTSI;31/03/2025 09:40;1
+9590096;1;São Francisco do Sul;TESC;09/11/2025 23:40;1
+9574004;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/12/2025 16:35;1
+9577886;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;02/07/2025 07:50;1
+9578763;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;03/08/2025 17:00;1
+9580106;1;Paranaguá;TCP;24/01/2025 19:00;1
+9584059;1;Santos;Cais do TEV (SSZ 18) - Privativo;22/12/2025 00:36;1
+9587166;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/10/2025 18:17;1
+9588366;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/12/2025 08:30;1
+9588378;1;Vitória;Cais de Capuaba;01/09/2025 14:35;1
+9590072;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/11/2025 16:20;1
+9571600;1;Vitória;Cais de Capuaba;03/12/2025 15:55;1
+9649706;1;São Francisco do Sul;TESC;26/09/2025 13:20;1
+9650872;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;24/03/2025 07:00;1
+9651113;1;Santos;Cais do TEV (SSZ 18) - Privativo;09/12/2025 15:50;1
+9655420;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;07/12/2025 08:39;1
+9668295;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;29/05/2025 08:05;1
+9670781;1;São Francisco do Sul;TESC;12/08/2025 00:50;1
+9670901;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/10/2025 03:15;1
+9672052;1;Vitória;Cais de Capuaba;27/09/2025 07:20;1
+9674517;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/01/2025 14:53;1
+9610755;1;Vitória;Cais de Capuaba;26/05/2025 18:25;1
+9677337;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/07/2025 03:55;1
+9681883;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/09/2025 09:10;1
+9684469;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;21/01/2025 00:27;1
+9687095;1;São Francisco do Sul;TESC;29/07/2025 12:00;1
+9687552;1;Rio de Janeiro;ICTSI;12/02/2025 19:15;1
+9691577;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/09/2025 19:29;1
+9694684;1;Vitória;Cais de Capuaba;03/01/2025 05:15;1
+9697832;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;25/10/2025 07:03;1
+9698654;1;Paranaguá;TCP;13/11/2025 01:18;1
+9675743;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/12/2025 07:17;1
+9610999;1;Vitória;Cais de Capuaba;14/07/2025 05:20;1
+9612777;1;Santos;Cais da Santos Brasil (SSZ 16) - Privativo;21/04/2025 12:51;1
+9612791;1;Itajaí;Cais Arrendado Transitoriamente;31/10/2025 15:06;1
+9613769;1;São Francisco do Sul;TESC;19/06/2025 20:45;1
+9614696;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;09/06/2025 14:15;1
+9617351;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/01/2025 21:32;1
+9619529;1;São Francisco do Sul;TESC;20/03/2025 17:05;1
+9620695;1;Santos;Cais do TEV (SSZ 18) - Privativo;26/04/2025 09:55;1
+9621003;1;Vitória;Cais de Capuaba;24/12/2025 03:10;1
+9644184;1;Salvador;TECON;27/06/2025 14:40;1
+9622801;1;Vitória;Cais de Capuaba;19/09/2025 08:15;1
+9625932;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;11/07/2025 16:47;1
+9626302;1;Vitória;Cais de Capuaba;25/02/2025 06:25;1
+9627899;1;Paranaguá;TCP;25/05/2025 20:55;1
+9635406;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;10/08/2025 13:09;1
+9635743;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;26/06/2025 14:27;1
+9638173;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/01/2025 08:36;1
+9642784;1;Salvador;TECON;25/12/2025 08:30;1
+9643611;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;18/06/2025 21:47;1
+9621895;1;Vitória;Cais de Capuaba;26/08/2025 07:30;1
+9490727;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/04/2025 06:27;1
+9490777;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;22/05/2025 05:34;1
+9491472;1;Paranaguá;TCP;18/01/2025 19:10;1
+9491501;1;Rio Grande;Cais Tecon Rio Grande S.A.;28/03/2025 16:30;1
+9493690;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/07/2025 11:01;1
+9493987;1;Vitória;Cais de Capuaba;16/04/2025 10:50;1
+9494096;1;São Francisco do Sul;TESC;04/09/2025 21:50;1
+9494101;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/02/2025 04:33;1
+9496185;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/11/2025 07:53;1
+9561277;1;Santos;Cais do TEV (SSZ 18) - Privativo;06/11/2025 06:00;1
+9500065;1;Rio de Janeiro;ICTSI;01/07/2025 19:45;1
+9500297;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/06/2025 20:46;1
+9504750;1;Vitória;Cais de Capuaba;22/12/2025 01:40;1
+9504786;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;11/02/2025 15:18;1
+9507609;1;Portonave - Terminais Portuários de Navegantes;Portonave - Terminais Portuários de Navegantes;14/11/2025 21:00;1
+9507611;1;Vitória;Cais de Capuaba;17/12/2025 22:25;1
+9508304;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;17/11/2025 09:38;1
+9508407;1;Vitória;Cais de Capuaba;20/12/2025 16:15;1
+9508433;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;25/09/2025 11:10;1
+9499486;1;Rio de Janeiro;ICTSI;24/12/2025 08:40;1
+9464780;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/11/2025 11:55;1
+9465382;1;Santos;Cais do TEV (SSZ 18) - Privativo;04/01/2025 04:30;1
+9467237;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;26/12/2025 11:32;1
+9467548;1;Vitória;Cais de Capuaba;13/12/2025 06:30;1
+9467562;1;Vitória;Cais de Capuaba;08/12/2025 13:55;1
+9470375;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/01/2025 04:03;1
+9472737;1;Vitória;Cais de Capuaba;25/09/2025 21:30;1
+9473250;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;31/07/2025 21:40;1
+9488102;1;São Francisco do Sul;TESC;12/09/2025 01:05;1
+9474371;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;27/06/2025 12:22;1
+9474802;1;Vitória;Cais de Capuaba;23/09/2025 16:25;1
+9477608;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;19/07/2025 08:10;1
+9477919;1;Vitória;Cais de Capuaba;26/07/2025 13:40;1
+9478482;1;São Francisco do Sul;TESC;23/10/2025 03:40;1
+9478913;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;17/09/2025 13:50;1
+9479046;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;27/09/2025 17:25;1
+9486568;1;Vitória;Cais de Capuaba;24/09/2025 19:30;1
+9486594;1;Vitória;Cais de Capuaba;10/02/2025 07:25;1
+9473406;1;Vitória;Cais de Capuaba;08/01/2025 16:35;1
+9535606;1;Vitória;Cais de Capuaba;31/03/2025 13:40;1
+9539224;1;Santos;Cais do TEV (SSZ 18) - Privativo;25/10/2025 08:46;1
+9539444;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;03/10/2025 15:52;1
+9541631;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;21/11/2025 17:09;1
+9542166;1;Rio de Janeiro;ICTSI;10/08/2025 19:15;1
+9542336;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;28/02/2025 19:50;1
+9542350;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;20/01/2025 07:07;1
+9542520;1;Vitória;Cais de Capuaba;17/01/2025 14:30;1
+9545077;1;Vitória;Cais de Capuaba;08/04/2025 21:50;1
+9509956;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;15/09/2025 14:58;1
+9548823;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;25/03/2025 13:45;1
+9549372;1;Vitória;Cais de Capuaba;14/06/2025 02:20;1
+9549592;1;Super Terminais Comércio e Indústria;Super Terminais Comércio e Indústria;21/03/2025 01:12;1
+9552886;1;São Francisco do Sul;TESC;08/07/2025 01:45;1
+9552898;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/06/2025 20:08;1
+9552953;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;02/11/2025 23:25;1
+9553141;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;01/05/2025 17:16;1
+9554200;1;Santos;Cais do TEV (SSZ 18) - Privativo;24/05/2025 12:44;1
+9559872;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;09/04/2025 07:15;1
+9545508;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;13/03/2025 06:25;1
+9510357;1;São Francisco do Sul;TESC;24/02/2025 11:00;1
+9512305;1;São Francisco do Sul;TESC;14/04/2025 15:40;1
+9512355;1;São Francisco do Sul;TESC;20/06/2025 22:30;1
+9516399;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;16/02/2025 07:04;1
+9518098;1;Salvador;TECON;19/04/2025 09:10;1
+9518177;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;21/09/2025 21:30;1
+9519298;1;Vitória;Cais de Capuaba;24/10/2025 16:25;1
+9520649;1;Salvador;TECON;15/10/2025 19:55;1
+9520883;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/07/2025 01:29;1
+9532824;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;27/07/2025 18:05;1
+9520936;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;06/03/2025 19:55;1
+9522908;1;Vitória;Cais de Capuaba;02/06/2025 08:10;1
+9523158;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;12/10/2025 22:30;1
+9526978;1;Paranaguá;TCP;22/06/2025 20:07;1
+9529530;1;Santos;Cais da Ecoporto (SSZ 35) - Privativo;16/08/2025 04:10;1
+9529580;1;Rio de Janeiro;ICTSI;07/10/2025 18:10;1
+9529592;1;São Francisco do Sul;TESC;09/05/2025 12:35;1
+9529619;1;São Francisco do Sul;TESC;27/01/2025 00:40;1
+9532197;1;Vitória;Cais de Capuaba;26/11/2025 13:35;1
+9520895;1;Terminal Portuário do Pecém;Terminal Portuário do Pecém;09/03/2025 09:41;1
