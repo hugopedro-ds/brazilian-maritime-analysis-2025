@@ -1,5 +1,8 @@
 # Post 9 — Container carrier deployment, Brazilian ports 2025
 
+
+> **Correction (September 2026).** The container-terminal list used here was wrong: it included a vehicle terminal (TEV, mislabelled as DP World Santos) and Ecoporto, and left out DP World Santos and Itapoá, two of the largest container terminals. Port-level HHIs are therefore not reliable and will be recomputed. MSC being the most frequent caller is unlikely to change.
+
 **Who actually serves the Brazil container corridor, where is the real optionality at port level, and where does carrier concentration bite procurement?**
 
 ![Container carrier deployment, Brazilian ports 2025](outputs/post9_chart_final.png)
@@ -113,8 +116,8 @@ Full methodology and decisions in [`outputs/methodology.md`](outputs/methodology
 
 ## Related work
 
-- **Post 8** — Brazilian ports, China trade flows, category concentration ([link](../post08-china-brazil-flows/))
-- **Post 4** — West & Central Atlantic Africa container corridor ([link](https://github.com/hugopedreira/west-africa-container-corridor))
+- **Post 8** — Brazilian ports, China trade flows, category concentration ([link](../post08-china-brazil/))
+- **Post 4** — West & Central Atlantic Africa container corridor ([link](https://github.com/hugopedro-ds/brazil-westafrica-container-corridor))
 
 ---
 
