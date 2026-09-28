@@ -5,7 +5,14 @@ Case studies on Brazil's container shipping market and bilateral maritime trade 
 **Written for** container shipping line commercial and operations teams, freight forwarders, port operators, and trade analysts evaluating Brazil-related deployment, pricing, and procurement decisions.
 
 **Author:** Hugo Pedro — Data Analyst | BI & Analytics | Maritime Logistics focus
-**LinkedIn:** [linkedin.com/in/hugopedro](https://www.linkedin.com/in/hugopedro/)
+**LinkedIn:**[linkedin.com/in/hugopedro](https://www.linkedin.com/in/hugopedro/)
+
+> **Correction (September 2026).** Two problems affect parts of this study, and I found them while building a more rigorous follow-up.
+>
+> 1. The 23.2h median wait and 84h median stay cover *all* deep-sea calls, bulk carriers and tankers included, not only container ships. For container ships the median wait is about 8h across all deep-sea container calls and about 15h at the 11 main container terminals. The 2.1× UNCTAD comparison does not hold for container shipping.
+> 2. The carrier and vessel-segment figures (Findings 2 and 3 below, and Posts 6 and 9) rest on a scraped vessel file that matched only 705 of 22,746 deep-sea calls (3.1%), and whose "registered fleet" counts are not real fleet sizes. Those findings are withdrawn.
+>
+> The revised analysis, built on a validated vessel base, is in **[brazil-container-flows-2025](https://github.com/hugopedro-ds/brazil-container-flows-2025)**. The original text is kept below for transparency.
 
 ---
 
@@ -39,6 +46,8 @@ The answer matters because it changes where a carrier should push: harder negoti
 
 #### 1 — Pre-berth wait, not terminal handling, drives port stay
 
+*Corrected — see the note at the top. For container ships, waiting still takes more of the port time than handling (54% of ship-days), but the figures below are not container-specific.*
+
 Median pre-berth wait in deep-sea calls is **23.2h**. Median total TEstadia is **84h**. Roughly a quarter of the port stay happens before the vessel ever touches the berth.
 
 UNCTAD RMT 2025 reports a developing-country median time-in-port of 10.9h. Brazil runs at roughly 2.1× that benchmark. The comparison is order-of-magnitude — UNCTAD is AIS-derived, ANTAQ is administrative — but the direction is clear: slot management absence is the most likely driver, though association isn't proof.
@@ -46,6 +55,8 @@ UNCTAD RMT 2025 reports a developing-country median time-in-port of 10.9h. Brazi
 **Notebooks:** `08_kpis_operacionais_2025` · `12_testadia_vessel_segment_2025`
 
 #### 2 — The Feeder Max segment is highly concentrated; the Brazilian market overall is not
+
+*Withdrawn — see the note at the top.*
 
 Within the Feeder Max class (1k–3k TEU), CMA CGM holds 68.9% of deployed capacity, giving a segment HHI of 5,480 — highly concentrated by DOJ/FTC thresholds.
 
@@ -56,6 +67,8 @@ Within Feeder Max, CMA CGM is also the most efficient operator: 75h median TEsta
 **Notebook:** `07_market_power_feeder`
 
 #### 3 — No carrier allocates more than 12% of its registered fleet to Brazil
+
+*Withdrawn — see the note at the top.*
 
 Measured as unique vessels calling Brazil at least once in 2025, divided by total registered fleet:
 
@@ -77,6 +90,8 @@ The 12% ceiling is low given UNCTAD's 8.7% South-South trade growth in 2024 (RMT
 **Notebook:** `10_presenca_operacional_carrier_2025`
 
 #### 4 — Berth occupancy correlates with port stay across the 9-port sample
+
+*Note — like Finding 1, the port-level stay figures here cover all deep-sea calls, not only container ships. They have not been re-estimated for containers.*
 
 Spearman ρ = 0.82 (point estimate) between average berth occupancy rate and median TEstadia, across 9 ports — São Francisco do Sul excluded as a structural bulk-grain outlier (240h TEstadia, not representative of a container-typical port).
 
