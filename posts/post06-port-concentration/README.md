@@ -1,15 +1,13 @@
 # Post 6 — Carrier concentration at Brazilian container ports (HHI)
 
+> **Correction (September 2026).** The HHI values below were computed from 705 identifiable calls, 3.1% of deep-sea calls, matched through a vessel file that was later found unreliable. They conflict with Post 9 and are withdrawn. A TEU-weighted recomputation on a validated vessel base is in progress; see [brazil-container-flows-2025](https://github.com/hugopedro-ds/brazil-container-flows-2025).
+
 **Published on LinkedIn:** 16 June 2026
 **Author:** Hugo Pedro — [linkedin.com/in/hugopedro](https://www.linkedin.com/in/hugopedro/)
 
 ## The thesis
 
 Brazilian container ports offer less carrier optionality than procurement models often assume. Across the 10 main container terminals, all sit at or above DOJ/FTC 2010 moderate-concentration thresholds — and 7 of 10 are highly concentrated.
-
-## The chart
-
-![Carrier concentration (HHI) by Brazilian container port](outputs/post6_hhi_chart.png)
 
 ## Key findings
 
@@ -86,23 +84,11 @@ posts/post06-port-concentration/
 ├── README.md                ← you are here
 ├── docs/
 │   └── post_draft.md        ← LinkedIn post text (English)
-├── scripts/
-│   └── build_post6_hhi.py   ← chart generation script (data hardcoded from foundational study)
-└── outputs/
-    └── post6_hhi_chart.png  ← final chart
+
 ```
 
 The underlying ANTAQ data and full analysis pipeline are in the foundational study at the repo root (`notebooks/`, `docs/definitions.md`).
 
-## Reproduce the chart
-
-The chart script is self-contained (HHI values and carrier shares hardcoded from the foundational analysis):
-
-```bash
-python scripts/build_post6_hhi.py
-```
-
-Requires Python 3.10+ with matplotlib and numpy.
 
 ## What this post does NOT claim
 
