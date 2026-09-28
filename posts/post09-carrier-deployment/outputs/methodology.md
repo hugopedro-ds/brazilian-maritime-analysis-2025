@@ -2,7 +2,7 @@
 
 **Container carrier deployment in Brazilian ports, 2025**
 
-Author: Hugo Pedreira — [LinkedIn](https://www.linkedin.com/in/hugo-pedreira)
+Author: Hugo Pedro — [LinkedIn](https://www.linkedin.com/in/hugopedro/)
 Data cutoff: ANTAQ 2025 (Jan–Nov)
 Publication target: LinkedIn + GitHub case study
 
